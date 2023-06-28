@@ -21,8 +21,7 @@ Obtenha as Séries do IPCA (IBGE), Saldo de Crédito Total (BCB), Retornos do
 Ibovespa e o preço de um ativo presente na B3 à sua escolha. (Todas mensais, de
 01/2015 a 12/2022). Então, para cada série:
 
-  a. Realize os testes de identificação, assim como os de Critério de Informação e
-Diagnóstico de Resíduos.
+  a. Realize os testes de identificação, assim como os de Critério de Informação e Diagnóstico de Resíduos.
 
   b. Plote os gráficos de FAC e FACP.
 
