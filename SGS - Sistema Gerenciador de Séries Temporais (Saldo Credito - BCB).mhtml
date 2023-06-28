@@ -1,0 +1,2755 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www3.bcb.gov.br/sgspub/consultarvalores/consultarValoresSeries.do?method=consultarValores
+Subject: =?utf-8?Q?SGS=20-=20Sistema=20Gerenciador=20de=20S=C3=A9ries=20Temporais?=
+Date: Wed, 28 Jun 2023 13:17:18 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----"
+
+
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: text/html
+Content-ID: <frame-A9AAD6584F467DB816BE23481BBD6081@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www3.bcb.gov.br/sgspub/consultarvalores/consultarValoresSeries.do?method=consultarValores
+
+<html locale=3D"true" lang=3D"pt-br"><head><meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dwindows-1252"><link rel=3D"stylesheet" ty=
+pe=3D"text/css" href=3D"cid:css-cdbf51ca-099d-49a0-8148-fe51cf2931f7@mhtml.=
+blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-a927f9d=
+6-48a7-401c-ad39-fa7ffac39d7f@mhtml.blink" />
+
+ =20
+  <title>SGS - Sistema Gerenciador de S=E9ries Temporais</title>
+  <link rel=3D"stylesheet" type=3D"text/css" href=3D"https://www3.bcb.gov.b=
+r/css/sistema.css">
+ =20
+ =20
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class=3D"menu">
+ =20
+
+
+
+
+
+
+
+
+<a name=3D"Top"></a>
+<table cellpadding=3D"4" cellspacing=3D"0" border=3D"0" bordercolor=3D"#FFF=
+FFF" width=3D"100%">
+    <tbody><tr>
+    <td class=3D"cab">
+      <a href=3D"https://www3.bcb.gov.br/sgspub/">
+      <img style=3D"margin-left:3px;margin-top:3px" src=3D"https://www3.bcb=
+.gov.br/img/logoSistemas.gif">
+      </a>
+    </td>
+    <td class=3D"cab" width=3D"80%" align=3D"left">
+      <div class=3D"txN">SGS - Sistema Gerenciador de S=E9ries Temporais - =
+v2.1</div>
+      <div class=3D"tx">M=F3dulo p=FAblico</div>
+    </td>
+    <td class=3D"cab" nowrap=3D"true" align=3D"right">
+      <div class=3D"tx" style=3D"margin-right:3px">Usu=E1rio p=FAblico</div=
+>
+      <div class=3D"txP" style=3D"margin-right:3px">
+	28/06/2023 10:16
+      </div>
+      <a title=3D"Alterar o idioma para ingl=EAs">
+      	<div class=3D"fundoPadraoAClaro3" align=3D"center" style=3D"margin-r=
+ight:3px margin-left:3px;margin-top:3px">
+		<span class=3D"textoPequeno" style=3D"color:#003366">
+		English
+		</span>
+      	</div>
+      </a>
+    </td>
+    </tr>
+</tbody></table>
+ =20
+
+
+
+
+
+<table cellspacing=3D"0" cellpadding=3D"0" class=3D"semBorda" width=3D"100%=
+">
+    <tbody><tr class=3D"transp">
+        <td colspan=3D"3" align=3D"left" class=3D"fuM">
+        <span id=3D"omenu">
+          	<span class=3D"lkM"><a>Consultar</a></span>|
+          	<span class=3D"lkM"><a>Minhas listas de s=E9ries</a></span>|
+			<span class=3D"lkM"><a>Configura=E7=F5es</a></span>|
+			<span class=3D"lkM"><a>Ajuda</a></span>|
+        </span>
+        </td>
+    </tr>
+</tbody></table>
+
+ =20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<center>
+
+<div>
+	<span class=3D"trilhaNav" style=3D"float:left">
+		<a href=3D"https://www3.bcb.gov.br/sgspub/" target=3D"_top">In=EDcio</a>
+		<img src=3D"https://www3.bcb.gov.br/img/seta.gif" border=3D"0">
+		<a href=3D"https://www3.bcb.gov.br/sgspub/consultarvalores/telaCvsSelecio=
+narSeries.paint" target=3D"_top">Consultar s=E9ries</a>
+                <img src=3D"https://www3.bcb.gov.br/img/seta.gif" border=3D=
+"0">
+		Resultado da consulta de valores
+    </span>
+    <span style=3D"float:right">
+     	<span class=3D"codTela">[SGSFW2302]&nbsp;&nbsp;</span>
+		<span class=3D"fundoPadraoAEscuro3">&nbsp;
+			<a href=3D"https://www3.bcb.gov.br/sgspub/consultarvalores/consultarValo=
+resSeries.do?method=3DconsultarValores#">
+		  		<img title=3D"Exibir ajuda sobre o sistema" alt=3D"Exibir ajuda sobre=
+ o sistema" src=3D"https://www3.bcb.gov.br/img/fundoclaro/glos2.gif">
+			</a>&nbsp;
+		</span>&nbsp;&nbsp;
+    </span>
+</div>&nbsp;
+<form name=3D"consultarValoresSeriesForm" method=3D"post" action=3D"https:/=
+/www3.bcb.gov.br/sgspub/consultarvalores/consultarValoresSeries.paint" enct=
+ype=3D"multipart/form-data" style=3D"margin:0px">
+<span class=3D"titulo1">Resultado da consulta de valores</span>
+<span class=3D"textoPequeno">
+	<table class=3D"tabela" width=3D"60%"><tbody><tr><td align=3D"left">
+		<p align=3D"justify">
+		O Banco Central do Brasil n=E3o assume nenhuma responsabilidade por defas=
+agem, erro ou outra defici=EAncia em informa=E7=F5es prestadas em s=E9rie t=
+emporal cujas fontes sejam externas a esta institui=E7=E3o, bem como por qu=
+aisquer perdas ou danos decorrentes de seu uso.
+		</p>
+	</td></tr></tbody></table>
+</span>
+
+
+<div class=3D"msgErro"><bc:errors></bc:errors></div>
+
+<table summary=3D"Esta tabela cont=E9m os par=E2metros informados para a co=
+nsulta de valores" cellspacing=3D"1" id=3D"seriesSelecionadas" width=3D"90%=
+" class=3D"tabela">
+    <tbody><tr>
+	<td align=3D"left">
+		<div id=3D"divAguardar"></div>
+    	</td>
+	<td align=3D"right">
+    	=09
+		<a href=3D"https://www3.bcb.gov.br/sgspub/consultarvalores/consultarValor=
+esSeries.do?method=3DdownLoad" target=3D"_new"><img align=3D"middle" border=
+=3D"0" title=3D"Transferir arquivo para o computador do usu=E1rio" src=3D"h=
+ttps://www3.bcb.gov.br/img/transferirA.gif">&nbsp;Arquivo CSV</a>
+    	=09
+    	</td>
+    </tr>
+    <tr class=3D"fundoPadraoAEscuro3">
+	<td colspan=3D"2" align=3D"center"><b>Par=E2metros informados</b></td>
+    </tr>
+    <tr class=3D"fundoPadraoAClaro1">
+	<td colspan=3D"2"><div class=3D"tiNIE">
+		S=E9ries selecionadas
+	</div></td>
+    </tr>
+
+       <tr class=3D"fundoPadraoAClaro3">
+       <td colspan=3D"2" align=3D"left"><span class=3D"textoPequeno">
+       28183 -=20
+Saldo de cr=E9dito ampliado ao setor n=E3o financeiro - Total
+       </span></td>
+       </tr>
+      =20
+
+    <tr class=3D"fundoPadraoAClaro1">
+		<td width=3D"50%"><div class=3D"tiNIE">
+			Per=EDodo&nbsp;
+		</div></td>
+		<td width=3D"50%"><div class=3D"tiNIE">
+			Fun=E7=E3o
+		</div></td>
+    </tr>
+    <tr class=3D"fundoPadraoAClaro3">
+		<td><span class=3D"textoPequeno">
+		02/01/1980 a 28/06/2023
+	        </span>
+		</td>
+		<td><span class=3D"textoPequeno">
+			Linear
+	        </span>
+		</td>
+    </tr>
+</tbody></table>
+
+<br>
+
+
+<table summary=3D"Esta tabela cont=E9m a lista de valores" cellspacing=3D"1=
+" id=3D"valoresSeries" width=3D"90%" class=3D"tabela">
+    <tbody><tr>
+	<td align=3D"left" colspan=3D"
+	2
+	">
+	<span align=3D"left">
+		<span class=3D"textoPequeno">
+     			Registros encontrados por s=E9rie:&nbsp;
+     			<b>195</b>
+		</span>
+
+		<span align=3D"left" class=3D"textoPequeno">
+          <div align=3D"left">
+			<table width=3D"100%" class=3D"tabela"><tbody><tr><td align=3D"left">Pri=
+meiro&nbsp;|&nbsp;Anterior&nbsp;|&nbsp;<b>1</b>,&nbsp;<a>2</a>&nbsp;|&nbsp;=
+<a>Pr=F3ximo</a>&nbsp;|&nbsp;<a>=DAltimo</a></td></tr></tbody></table>
+          </div>
+		</span>
+
+	</span>
+	</td>
+    </tr>
+    <tr align=3D"center" class=3D"fundoPadraoAEscuro3">
+	<td align=3D"center" colspan=3D"
+	2
+	">
+		<b>Lista de valores</b><span class=3D"textoPequeno">
+	&nbsp;(Formato num=E9rico: Europeu - 123.456.789,00)
+	</span></td>
+    </tr>
+    <tr class=3D"fundoPadraoAClaro1">
+       <td width=3D"15%"><div class=3D"tiNIE" align=3D"Center">
+		<span class=3D"textoPequeno">Data
+<br>m=EAs/AAAA
+
+
+		</span>
+       </div></td>
+
+       <td width=3D"85%"><div class=3D"tiNIE" align=3D"Center">
+	<span class=3D"textoPequeno">
+		28183<br>
+		R$ (milh=F5es)
+	</span>
+      </div></td>
+
+    </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mar/2007
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            abr/2007
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mai/2007
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jun/2007
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jul/2007
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            ago/2007
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            set/2007
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            out/2007
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            nov/2007
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            dez/2007
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jan/2008
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            fev/2008
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mar/2008
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            abr/2008
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mai/2008
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jun/2008
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jul/2008
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            ago/2008
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            set/2008
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            out/2008
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            nov/2008
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            dez/2008
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jan/2009
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            fev/2009
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mar/2009
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            abr/2009
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mai/2009
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jun/2009
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jul/2009
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            ago/2009
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            set/2009
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            out/2009
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            nov/2009
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            dez/2009
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jan/2010
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            fev/2010
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mar/2010
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            abr/2010
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mai/2010
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jun/2010
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jul/2010
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            ago/2010
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            set/2010
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            out/2010
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            nov/2010
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            dez/2010
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jan/2011
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            fev/2011
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mar/2011
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            abr/2011
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mai/2011
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jun/2011
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jul/2011
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            ago/2011
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            set/2011
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            out/2011
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            nov/2011
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            dez/2011
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jan/2012
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            fev/2012
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mar/2012
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            abr/2012
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mai/2012
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jun/2012
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jul/2012
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            ago/2012
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            set/2012
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            out/2012
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            nov/2012
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            dez/2012
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+-
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jan/2013
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+5.217.868
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            fev/2013
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+5.266.555
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mar/2013
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+5.335.453
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            abr/2013
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+5.349.228
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mai/2013
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+5.464.469
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jun/2013
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+5.610.192
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jul/2013
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+5.621.796
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            ago/2013
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+5.717.934
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            set/2013
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+5.696.209
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            out/2013
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+5.746.162
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            nov/2013
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+5.884.247
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            dez/2013
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+6.027.638
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jan/2014
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+6.002.991
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            fev/2014
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+6.016.760
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mar/2014
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+6.045.902
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            abr/2014
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+6.046.330
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mai/2014
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+6.155.803
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jun/2014
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+6.262.320
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jul/2014
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+6.274.286
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            ago/2014
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+6.306.931
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            set/2014
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+6.429.539
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            out/2014
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+6.446.519
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            nov/2014
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+6.585.987
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            dez/2014
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+6.781.624
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jan/2015
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+6.752.013
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            fev/2015
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+6.920.306
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mar/2015
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+7.174.582
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            abr/2015
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+7.119.162
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro3">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            mai/2015
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+7.263.303
+
+             </span></div></td>
+
+         </tr>
+
+         <tr class=3D"fundoPadraoAClaro2">
+            <td width=3D"15%"><div align=3D"Center"><span class=3D"textoPeq=
+ueno">
+            jun/2015
+</span></div></td>
+
+			<td><div align=3D"Center"><span class=3D"textoPequeno">
+7.334.117
+
+             </span></div></td>
+
+         </tr>
+
+    <tr class=3D"fundoPadraoAClaro1">
+
+       <td width=3D"15%"><div class=3D"tiNIE" align=3D"Center">Fonte</div><=
+/td>
+
+       <td><div class=3D"tiNIE" align=3D"Center">BCB-DSTAT</div></td>
+
+    </tr>
+    <tr>
+	<td align=3D"left" colspan=3D"
+	2
+	">
+
+        <span align=3D"left" class=3D"textoPequeno">
+		<table width=3D"100%" class=3D"tabela"><tbody><tr><td align=3D"left">Prim=
+eiro&nbsp;|&nbsp;Anterior&nbsp;|&nbsp;<b>1</b>,&nbsp;<a>2</a>&nbsp;|&nbsp;<=
+a>Pr=F3ximo</a>&nbsp;|&nbsp;<a>=DAltimo</a></td></tr></tbody></table>
+        </span>
+
+	</td>
+    </tr>
+    </tbody></table>
+   =20
+
+
+
+
+<div class=3D"cen">
+    <input class=3D"botao" type=3D"button" value=3D"Visualizar gr=E1fico" t=
+itle=3D"Visualizar gr=E1fico">
+</div>
+<br>
+<br>
+<br>
+<br>
+</form></center>
+
+  <!--
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p align=3D"center"><span class=3D"titulo1">Sistema em manuten=E7=E3o. Prev=
+is=E3o de retorno: 26/02/2007 =E0s 7:00 hs.</span></p>-->
+ =20
+
+
+
+
+<div class=3D"naoimprime" id=3D"toolBar" style=3D"width: 80px; position: ab=
+solute; left: 1117.6px; font-size: 1px; height: 20px; top: 561.217px;">
+     <span id=3D"navLargura" style=3D"white-space:nowrap;padding-top:1;heig=
+ht:20;">
+	<a href=3D"https://www3.bcb.gov.br/sgspub/consultarvalores/consultarValore=
+sSeries.do?method=3DconsultarValores#"><img valign=3D"middle" src=3D"https:=
+//www3.bcb.gov.br/img/home/navtopo.gif" title=3D"Ir para o topo da p=E1gina=
+" alt=3D"Ir para o topo da p=E1gina" style=3D"border:solid 1 white"></a>
+	<a href=3D"https://www3.bcb.gov.br/sgspub/consultarvalores/consultarValore=
+sSeries.do?method=3DconsultarValores#Bot"><img valign=3D"middle" src=3D"htt=
+ps://www3.bcb.gov.br/img/home/navbase.gif" title=3D"Ir para a base da p=E1g=
+ina" alt=3D"Ir para a base da p=E1gina" style=3D"border:solid 1 white"></a>
+        <a><img valign=3D"middle" src=3D"https://www3.bcb.gov.br/img/home/n=
+avvolta.gif" title=3D"Ir para p=E1gina anterior" alt=3D"Ir para p=E1gina an=
+terior" style=3D"border:solid 1 white"></a>
+        <a href=3D"https://www3.bcb.gov.br/sgspub/" target=3D"_top"><img va=
+lign=3D"middle" src=3D"https://www3.bcb.gov.br/img/home/navinicial.gif" tit=
+le=3D"Ir para p=E1gina inicial" alt=3D"Ir para p=E1gina inicial" style=3D"b=
+order:solid 1 white"></a>
+        <a><img valign=3D"middle" src=3D"https://www3.bcb.gov.br/img/home/n=
+avimprimir.gif" title=3D"Imprimir p=E1gina" alt=3D"Imprimir p=E1gina" style=
+=3D"border:solid 1 white"></a>
+     </span>
+</div>
+
+<a name=3D"Bot">
+
+
+ =20
+
+
+</a><div id=3D"eM1" style=3D"position: absolute; visibility: hidden; width:=
+ 155px; border-width: 1px; border-color: rgb(0, 102, 255); border-style: so=
+lid; left: 0px; top: 0px;"><div id=3D"item1_0" style=3D"background: rgb(238=
+, 238, 238); cursor: pointer; padding: 2px; color: black; font-size: 8pt; f=
+ont-weight: normal; font-style: normal; font-family: arial; border-bottom: =
+1px solid rgb(208, 208, 208);">S=E9ries</div><div id=3D"item1_0" style=3D"b=
+ackground: rgb(238, 238, 238); cursor: pointer; padding: 2px; color: black;=
+ font-size: 8pt; font-weight: normal; font-style: normal; font-family: aria=
+l; border-bottom: 1px solid rgb(208, 208, 208);">Metadados</div><div id=3D"=
+item1_1" style=3D"background: rgb(238, 238, 238); cursor: pointer; padding:=
+ 2px; color: black; font-size: 8pt; font-weight: normal; font-style: normal=
+; font-family: arial;">Estat=EDsticas econ=F4mico- financeiras<img src=3D"h=
+ttps://www3.bcb.gov.br/img/seta.gif" style=3D"width:11px;height:11px;align:=
+right;vertical-align:middle"></div></div><div id=3D"eM1_1" style=3D"positio=
+n: absolute; visibility: hidden; width: 155px; border-width: 1px; border-co=
+lor: rgb(0, 102, 255); border-style: solid; left: 0px; top: 0px;"><div id=
+=3D"item1_1_0" style=3D"background: rgb(238, 238, 238); cursor: pointer; pa=
+dding: 2px; color: black; font-size: 8pt; font-weight: normal; font-style: =
+normal; font-family: arial; border-bottom: 1px solid rgb(208, 208, 208);">T=
+axas de Juros</div><div id=3D"item1_1_0" style=3D"background: rgb(238, 238,=
+ 238); cursor: pointer; padding: 2px; color: black; font-size: 8pt; font-we=
+ight: normal; font-style: normal; font-family: arial; border-bottom: 1px so=
+lid rgb(208, 208, 208);">Caderneta de Poupan=E7a</div><div id=3D"item1_1_0"=
+ style=3D"background: rgb(238, 238, 238); cursor: pointer; padding: 2px; co=
+lor: black; font-size: 8pt; font-weight: normal; font-style: normal; font-f=
+amily: arial; border-bottom: 1px solid rgb(208, 208, 208);">D=F3lar/Ouro</d=
+iv><div id=3D"item1_1_0" style=3D"background: rgb(238, 238, 238); cursor: p=
+ointer; padding: 2px; color: black; font-size: 8pt; font-weight: normal; fo=
+nt-style: normal; font-family: arial;">Aplica=E7=F5es Financeiras</div></di=
+v><div id=3D"eM2" style=3D"position: absolute; visibility: hidden; width: 1=
+55px; border-width: 1px; border-color: rgb(0, 102, 255); border-style: soli=
+d; left: 0px; top: 0px;"><div id=3D"item2_0" style=3D"background: rgb(238, =
+238, 238); cursor: pointer; padding: 2px; color: black; font-size: 8pt; fon=
+t-weight: normal; font-style: normal; font-family: arial; border-bottom: 1p=
+x solid rgb(208, 208, 208);">Criar</div><div id=3D"item2_0" style=3D"backgr=
+ound: rgb(238, 238, 238); cursor: pointer; padding: 2px; color: black; font=
+-size: 8pt; font-weight: normal; font-style: normal; font-family: arial; bo=
+rder-bottom: 1px solid rgb(208, 208, 208);">Editar</div><div id=3D"item2_0"=
+ style=3D"background: rgb(238, 238, 238); cursor: pointer; padding: 2px; co=
+lor: black; font-size: 8pt; font-weight: normal; font-style: normal; font-f=
+amily: arial; border-bottom: 1px solid rgb(208, 208, 208);">Excluir</div><d=
+iv id=3D"item2_0" style=3D"background: rgb(238, 238, 238); cursor: pointer;=
+ padding: 2px; color: black; font-size: 8pt; font-weight: normal; font-styl=
+e: normal; font-family: arial;">Visualizar</div></div><div id=3D"eM3" style=
+=3D"position: absolute; visibility: hidden; width: 155px; border-width: 1px=
+; border-color: rgb(0, 102, 255); border-style: solid; left: 0px; top: 0px;=
+"><div id=3D"item3_0" style=3D"background: rgb(238, 238, 238); cursor: poin=
+ter; padding: 2px; color: black; font-size: 8pt; font-weight: normal; font-=
+style: normal; font-family: arial;">Ambiente</div></div><div id=3D"eM4" sty=
+le=3D"position: absolute; visibility: hidden; width: 155px; border-width: 1=
+px; border-color: rgb(0, 102, 255); border-style: solid; left: 0px; top: 0p=
+x;"><div id=3D"item4_0" style=3D"background: rgb(238, 238, 238); cursor: po=
+inter; padding: 2px; color: black; font-size: 8pt; font-weight: normal; fon=
+t-style: normal; font-family: arial; border-bottom: 1px solid rgb(208, 208,=
+ 208);">Ajuda do sistema</div><div id=3D"item4_0" style=3D"background: rgb(=
+238, 238, 238); cursor: pointer; padding: 2px; color: black; font-size: 8pt=
+; font-weight: normal; font-style: normal; font-family: arial;">Fale conosc=
+o</div></div></body></html>
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-cdbf51ca-099d-49a0-8148-fe51cf2931f7@mhtml.blink
+
+@charset "windows-1252";
+=0A
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-a927f9d6-48a7-401c-ad39-fa7ffac39d7f@mhtml.blink
+
+@charset "windows-1252";
+
+:root zeus-ad, :root topadblock, :root span[id^=3D"ezoic-pub-ad-placeholder=
+-"], :root guj-ad, :root gpt-ad, :root div[id^=3D"zergnet-widget"], :root d=
+iv[id^=3D"yandex_ad"], :root div[id^=3D"vuukle-ad-"], :root div[id^=3D"stic=
+ky_ad_"], :root div[id^=3D"rc-widget-"], :root div[id^=3D"gpt_ad_"], :root =
+div[id^=3D"ezoic-pub-ad-"], :root div[id^=3D"div-gpt-"], :root div[id^=3D"d=
+fp-ad-"], :root div[id^=3D"advads_ad_"], :root div[id^=3D"adspot-"], :root =
+div[id^=3D"ads300_250-widget-"], :root div[id^=3D"ads300_100-widget-"], :ro=
+ot div[id^=3D"ads250_250-widget-"], :root div[id^=3D"adrotate_widgets-"], :=
+root div[id^=3D"_vdo_ads_player_ai_"], :root div[id*=3D"ScriptRoot"], :root=
+ div[id*=3D"MarketGid"], :root div[data-native_ad], :root div[data-mini-ad-=
+unit], :root div[data-insertion], :root div[data-id-advertdfpconf], :root d=
+iv[data-google-query-id], :root hl-adsense, :root div[data-contentexchange-=
+widget], :root div[data-content=3D"Advertisement"], :root div[data-alias=3D=
+"300x250 Ad 2"], :root div[data-alias=3D"300x250 Ad 1"], :root div[data-adz=
+one], :root div[data-adunit-path], :root div[data-ad-wrapper], :root div[da=
+ta-ad-targeting], :root div[data-ad-placeholder], :root div[class^=3D"nativ=
+e-ad-"], :root div[data-dfp-id], :root div[class^=3D"kiwi-ad-wrapper"], :ro=
+ot div[class^=3D"Adstyled__AdWrapper-"], :root div[aria-label=3D"Ads"], :ro=
+ot display-ads, :root display-ad-component, :root bottomadblock, :root atf-=
+ad-slot, :root aside[id^=3D"adrotate_widgets-"], :root article.ad, :root ar=
+k-top-ad, :root app-advertisement, :root app-ad, :root amp-fx-flying-carpet=
+, :root amp-embed[type=3D"taboola"], :root amp-connatix-player, :root amp-a=
+d-custom, :root ad-shield-ads, :root a[onmousedown^=3D"this.href=3D'https:/=
+/paid.outbrain.com/network/redir?"][target=3D"_blank"] + .ob_source, :root =
+citrus-ad-wrapper, :root a[onmousedown^=3D"this.href=3D'https://paid.outbra=
+in.com/network/redir?"][target=3D"_blank"], :root a[onmousedown^=3D"this.hr=
+ef=3D'http://paid.outbrain.com/network/redir?"][target=3D"_blank"] + .ob_so=
+urce, :root a[href^=3D"https://yogacomplyfuel.com/"], :root a[href^=3D"http=
+s://www.sugarinstant.com/?partner_id=3D"], :root a[href^=3D"https://www.pur=
+evpn.com/"][href*=3D"&utm_source=3Daff-"], :root a[href^=3D"https://www.pri=
+vateinternetaccess.com/"] > img, :root a[href^=3D"https://www.onlineusershi=
+elder.com/"], :root a[href^=3D"https://www.nutaku.net/signup/landing/"], :r=
+oot a[href^=3D"https://www.nudeidols.com/cams/"], :root a[href^=3D"https://=
+www.mypornstarcams.com/landing/click/"], :root a[href^=3D"https://www.kings=
+offetish.com/tour?partner_id=3D"], :root a[href^=3D"https://www.infowarssto=
+re.com/"] > img, :root a[href^=3D"https://t.grtyi.com/"], :root a[href^=3D"=
+https://www.highperformancecpmgate.com/"], :root a[href^=3D"https://www.hig=
+hcpmrevenuenetwork.com/"], :root a[href^=3D"https://www.get-express-vpn.com=
+/offer/"], :root a[href^=3D"https://www.financeads.net/tc.php?"], :root a[h=
+ref^=3D"https://www.brazzersnetwork.com/landing/"], :root div[class^=3D"Dis=
+play_displayAd"], :root a[href^=3D"https://www.sheetmusicplus.com/?aff_id=
+=3D"], :root a[href^=3D"https://www.bang.com/?aff=3D"], :root [data-templat=
+e-type=3D"nativead"], :root a[href^=3D"https://www.adultempire.com/"][href*=
+=3D"?partner_id=3D"], :root a[href^=3D"https://webroutetrk.com/"], :root a[=
+href^=3D"https://twinrdsyn.com/"], :root a[href^=3D"https://tsartech.g2afse=
+.com/"], :root [href^=3D"https://www.mypatriotsupply.com/"] > img, :root a[=
+href^=3D"https://trk.softonixs.xyz/"], :root a[href^=3D"https://trk.nfl-onl=
+ine-streams.club/"], :root a[href^=3D"https://tracking.avapartner.com/"], :=
+root a[href^=3D"https://track.wg-aff.com"], :root a[href^=3D"https://track.=
+afcpatrk.com/"], :root a[href^=3D"https://torguard.net/aff.php"] > img, :ro=
+ot div[data-adname], :root a[href^=3D"https://thechleads.pro/"], :root [dat=
+a-role=3D"tile-ads-module"], :root a[href^=3D"https://adsrv4k.com/"], :root=
+ a[href^=3D"https://go.xlviirdr.com"], :root a[href^=3D"https://thaudray.co=
+m/"], :root a[href^=3D"https://www.5mno3.com/"], :root a[href^=3D"https://t=
+aghaugh.com/"], :root a[href^=3D"https://click.candyoffers.com/"], :root [h=
+ref^=3D"https://zstacklife.com/"] img, :root a[href^=3D"https://t.aslnk.lin=
+k/"], :root a[href^=3D"https://t.adating.link/"], :root a[href^=3D"https://=
+go.trackitalltheway.com/"], :root [href^=3D"https://track.fiverr.com/visit/=
+"] > img, :root a[href^=3D"https://syndication.exoclick.com/"], :root a[hre=
+f^=3D"https://syndication.dynsrvtbg.com/"], :root a[href^=3D"https://stream=
+ate.com/landing/click/"], :root a[href^=3D"https://ad.doubleclick.net/"], :=
+root a[href^=3D"https://static.fleshlight.com/images/banners/"], :root a[hr=
+ef^=3D"https://aweptjmp.com/"], :root a[href^=3D"https://s.zlinkc.com/"], :=
+root a[href^=3D"https://www.mrskin.com/account/"], :root a[href^=3D"https:/=
+/s.optzsrv.com/"], :root a[data-obtrack^=3D"http://paid.outbrain.com/networ=
+k/redir?"], :root a[href^=3D"https://reinstandpointdumbest.com/"], :root a[=
+href^=3D"https://go.strpjmp.com/"], :root a[href^=3D"https://refpa4903566.t=
+op/"], :root a[href^=3D"https://pubads.g.doubleclick.net/"], :root a[href^=
+=3D"https://prf.hn/click/"][href*=3D"/camref:"] > img, :root a[href^=3D"htt=
+ps://serve.awmdelivery.com/"], :root a[href^=3D"https://prf.hn/click/"][hre=
+f*=3D"/adref:"] > img, :root [href^=3D"https://r.kraken.com/"], :root a[hre=
+f^=3D"https://mmwebhandler.aff-online.com/"], :root a[href^=3D"https://www.=
+bet365.com/"][href*=3D"affiliate=3D"], :root a[href^=3D"https://pb-track.co=
+m/"], :root a[href^=3D"https://paid.outbrain.com/network/redir?"], :root ps=
+-connatix-module, :root div[id^=3D"ad_position_"], :root a[href^=3D"https:/=
+/ovb.im/"], :root div[id^=3D"ad-div-"], :root a[href^=3D"https://newbinotra=
+cs.com/"], :root a[href^=3D"https://natour.naughtyamerica.com/track/"], :ro=
+ot [href^=3D"https://stvkr.com/"], :root a[href^=3D"https://mediaserver.ent=
+ainpartners.com/renderBanner.do?"], :root [href^=3D"https://www.herbanomic.=
+com/"] > img, :root a[href^=3D"https://maymooth-stopic.com/"], :root a[href=
+^=3D"https://loboclick.com"], :root [href^=3D"https://routewebtk.com/"], :r=
+oot a[href^=3D"https://see.kmisln.com/"], :root .nya-slot[style], :root a[h=
+ref^=3D"https://a.bestcontentweb.top/"], :root a[href^=3D"https://lobimax.c=
+om/"], :root a[href^=3D"https://lead1.pl/"], :root a[href^=3D"https://refpa=
+.top/"], :root a[href^=3D"https://landing.brazzersnetwork.com/"], :root a[h=
+ref^=3D"https://safesurfingtoday.com/"][href*=3D"?skip=3D"], :root a[href^=
+=3D"https://ads.leovegas.com/redirect.aspx?"], :root a[href^=3D"https://lan=
+d.brazzersnetwork.com/landing/"], :root a[href^=3D"https://track.adform.net=
+/"], :root [data-css-class=3D"dfp-inarticle"], :root .card-captioned.crd > =
+.crd--cnt > .s2nPlayer, :root a[href^=3D"https://go.tmrjmp.com"], :root a[h=
+ref^=3D"https://l.hyenadata.com/"], :root a[href^=3D"https://juicyads.in/"]=
+, :root a[href^=3D"https://mediaserver.gvcaffiliates.com/renderBanner.do?"]=
+, :root a[href^=3D"https://join.dreamsexworld.com/"], :root a[href^=3D"http=
+s://itubego.com/video-downloader/?affid=3D"], :root a[href^=3D"https://iqbr=
+oker.com/"][href*=3D"?aff=3D"], :root a[href^=3D"https://incisivetrk.cvtr.i=
+o/click?"], :root [data-revive-zoneid], :root a[href^=3D"https://googleads.=
+g.doubleclick.net/pcs/click"], :root a[href^=3D"https://clk.wrenchsound.sto=
+re/"], :root a[href^=3D"https://go.zybrdr.com"], :root [href^=3D"http://joi=
+n.michelle-austin.com/"], :root [class^=3D"tile-picker__CitrusBannerContain=
+er-sc-"], :root a[href^=3D"https://go.xxxiijmp.com"], :root a[href^=3D"http=
+s://go.xtbaffiliates.com/"], :root a[href^=3D"https://ismlks.com/"], :root =
+a[href^=3D"//a.bestcontentfare.top/"], :root [href^=3D"https://www.mypillow=
+.com/"] > img, :root a[href^=3D"https://azpresearch.club/"], :root a[href^=
+=3D"https://go.xlirdr.com"], :root a[href^=3D"https://go.skinstrip.net"][hr=
+ef*=3D"?campaignId=3D"], :root a[href^=3D"https://go.markets.com/visit/?bta=
+=3D"], :root a[href^=3D"https://billing.purevpn.com/aff.php"] > img, :root =
+a[href^=3D"https://go.hpyrdr.com/"], :root a[href^=3D"https://go.goaserv.co=
+m/"], :root a[href^=3D"https://go.dmzjmp.com"], :root a[href^=3D"https://tw=
+inrdsrv.com/"], :root a[href^=3D"https://go.admjmp.com/"], :root [href^=3D"=
+https://kingered-banctours.com/"], :root a[href^=3D"https://get.surfshark.n=
+et/aff_c?"][href*=3D"&aff_id=3D"] > img, :root a-ad, :root a[href^=3D"https=
+://affiliate.rusvpn.com/click.php?"], :root a[href^=3D"https://geniusdexcha=
+nge.com/"], :root a[href^=3D"https://frameworkdeserve.com/"], :root a[href^=
+=3D"https://flirtandsweets.life/"], :root a[href^=3D"https://www.mrskin.com=
+/tour"], :root a[href^=3D"https://financeads.net/tc.php?"], :root [data-fre=
+estar-ad], :root a[href^=3D"https://fc.lc/ref/"], :root div[data-native-ad]=
+, :root a[href^=3D"https://engine.trackingdesks.com/"], :root [href^=3D"htt=
+ps://totlnkcl.com/"], :root a[href^=3D"https://www.adskeeper.com"], :root a=
+[data-redirect^=3D"https://paid.outbrain.com/network/redir?"], :root [href^=
+=3D"https://www.reimageplus.com/"], :root a[href^=3D"https://engine.phn.dou=
+blepimp.com/"], :root a[href^=3D"https://engine.blueistheneworanges.com/"],=
+ :root div[id^=3D"optidigital-adslot"], :root a[href^=3D"https://wantoptica=
+lfreelance.com/"], :root a[href^=3D"https://dl-protect.net/"], :root a[href=
+^=3D"https://datingoffers30.info/"], :root a[href^=3D"https://clixtrac.com/=
+"], :root a[href^=3D"https://click.linksynergy.com/fs-bin/"] > img, :root a=
+d-triple-box, :root a[href^=3D"https://click.hoolig.app/"], :root a[href^=
+=3D"https://track.totalav.com/"], :root img[src^=3D"https://images.purevpna=
+ffiliates.com"], :root a[href^=3D"https://porntubemate.com/"], :root a[href=
+^=3D"http://www.gfrevenge.com/landing/"], :root a[href^=3D"https://clickadi=
+lla.com/"], :root a[href^=3D"https://click.dtiserv2.com/"], :root a[href^=
+=3D"https://go.xlvirdr.com"], :root a[href^=3D"https://claring-loccelkin.co=
+m/"], :root [class^=3D"s2nPlayer"], :root a[href^=3D"https://chaturbate.jjg=
+irls.com/?track=3D"], :root a[href^=3D"https://chaturbate.com/in/?track=3D"=
+], :root a[href^=3D"https://chaturbate.com/in/?tour=3D"], :root a[href^=3D"=
+https://cams.imagetwist.com/in/?track=3D"], :root a[href^=3D"https://affcpa=
+trk.com/"], :root a[href^=3D"https://bongacams2.com/track?"], :root a[href^=
+=3D"https://www.sheetmusicplus.com/"][href*=3D"?aff_id=3D"], :root a[href^=
+=3D"https://bngpt.com/"], :root a[href^=3D"https://bluedelivery.pro/"], :ro=
+ot a[href^=3D"https://black77854.com/"], :root a[href^=3D"https://bc.game/"=
+], :root a[href^=3D"https://ndt5.net/"], :root a[href^=3D"https://batheunit=
+s.com/"], :root a[target=3D"_blank"][onmousedown=3D"this.href^=3D'http://pa=
+id.outbrain.com/network/redir?"], :root a[href^=3D"https://banners.livepart=
+ners.com/"], :root a[href^=3D"//whulsaux.com/"], :root a[href^=3D"https://m=
+.do.co/c/"] > img, :root [href=3D"https://masstortfinancing.com"] img, :roo=
+t a[href^=3D"https://bongacams10.com/track?"], :root a[href^=3D"https://alb=
+ionsoftwares.com/"], :root a[href^=3D"https://t.hrtye.com/"], :root a[href^=
+=3D"https://go.etoro.com/"] > img, :root a[href^=3D"https://www.adxsrve.com=
+/"], :root a[href^=3D"https://convertmb.com/"], :root a[href^=3D"https://jo=
+in.sexworld3d.com/track/"], :root a[href^=3D"https://intenseaffiliates.com/=
+redirect/"], :root a[href^=3D"https://ads.ad4game.com/"], :root [id^=3D"goo=
+gle_ads_iframe"], :root a[href^=3D"https://syndication.optimizesrv.com/"], =
+:root a[href^=3D"https://affpa.top/"], :root a[href^=3D"https://adnetwrk.co=
+m/"], :root a[href^=3D"https://adjoincomprise.com/"], :root [href^=3D"http:=
+//misslinkvocation.com/"], :root a[href^=3D"https://adclick.g.doubleclick.n=
+et/"], :root a[href^=3D"https://go.nordvpn.net/aff"] > img, :root [href^=3D=
+"http://clicks.totemcash.com/"], :root a[href^=3D"https://misspkl.com/"], :=
+root a[href^=3D"https://ad.zanox.com/ppc/"] > img, :root a[href^=3D"https:/=
+/adultfriendfinder.com/go/"], :root a[href^=3D"https://a.bestcontentoperati=
+on.top/"], :root [data-m-ad-id], :root a[href^=3D"https://a-ads.com/"], :ro=
+ot [href=3D"https://ourgoldguy.com/contact/"] img, :root a[href^=3D"https:/=
+/brightadnetwork.com/"], :root [href^=3D"https://www.avantlink.com/click.ph=
+p"] img, :root a[href^=3D"http://www.onwebcam.com/random?t_link=3D"], :root=
+ a[href^=3D"https://www.googleadservices.com/pagead/aclk?"], :root a[href^=
+=3D"http://www.mrskin.com/tour"], :root a[href^=3D"https://agacelebir.com/"=
+], :root a[href^=3D"https://spygasm.com/track?"], :root a[href^=3D"http://d=
+2.zedo.com/"], :root a[href^=3D"http://www.friendlyduck.com/AF_"], :root a[=
+href^=3D"https://ad.kubiccomps.icu/"], :root a[href^=3D"http://trk.globwo.o=
+nline/"], :root a[href^=3D"https://prf.hn/click/"][href*=3D"/creativeref:"]=
+ > img, :root a[href^=3D"http://www.adultempire.com/unlimited/promo?"][href=
+*=3D"&partner_id=3D"], :root a[href^=3D"http://traffic.tc-clicks.com/"], :r=
+oot a[href^=3D"http://tour.mrskin.com/"], :root a[href^=3D"https://join.vir=
+tualtaboo.com/track/"], :root a[href^=3D"https://funkydaters.com/"], :root =
+[id^=3D"ad_sky"], :root a[href^=3D"http://https://www.get-express-vpn.com/o=
+ffer/"], :root div[id^=3D"google_dfp_"], :root a[href^=3D"http://googleads.=
+g.doubleclick.net/pcs/click"], :root .rc-cta[data-target], :root [href^=3D"=
+http://go.cm-trk2.com/"], :root a[href^=3D"http://click.payserve.com/"], :r=
+oot a[href^=3D"https://porngames.adult/?SID=3D"], :root a[href^=3D"https://=
+landing1.brazzersnetwork.com"], :root #slashboxes > .deals-rail, :root [hre=
+f^=3D"http://globsads.com/"], :root [href^=3D"https://www.brighteonstore.co=
+m/products/"] img, :root a[href^=3D"http://bc.vc/?r=3D"], :root a[href^=3D"=
+https://mityneedn.com/"], :root [href^=3D"http://homemoviestube.com/"], :ro=
+ot a[href^=3D"http://ad.doubleclick.net/"], :root a[href^=3D"//zunsoach.com=
+/"], :root a[href^=3D"https://a2.adform.net/"], :root a[href^=3D"http://sta=
+tic.fleshlight.com/images/banners/"], :root a[href^=3D"https://a.adtng.com/=
+"], :root a[href^=3D"//pubads.g.doubleclick.net/"], :root a[href^=3D"//go.e=
+abids.com/"], :root [data-d-ad-id], :root a[href*=3D".engine.adglare.net/"]=
+, :root [href^=3D"https://awbbjmp.com/"], :root a[href^=3D"https://tracker.=
+loropartners.com/"], :root #kt_player > a[target=3D"_blank"], :root a[href*=
+=3D".cfm?fp=3D"][href*=3D"&maxads=3D"], :root [data-dynamic-ads], :root a[d=
+ata-widget-outbrain-redirect^=3D"http://paid.outbrain.com/network/redir?"],=
+ :root [data-ad-width], :root [href^=3D"https://join.playboyplus.com/track/=
+"], :root a[data-url^=3D"http://paid.outbrain.com/network/redir?"] + .autho=
+r, :root a[href^=3D"https://axdsz.pro/"], :root a[href^=3D"http://bodelen.c=
+om/"], :root a[data-oburl^=3D"https://paid.outbrain.com/network/redir?"], :=
+root [href^=3D"https://cpa.10kfreesilver.com/"], :root a[href^=3D"https://a=
+.bestcontentfood.top/"], :root a[href^=3D"http://wct.link/"], :root [href^=
+=3D"https://goldforyourfuture.com/clk.trk"] img, :root [href^=3D"https://in=
+finitytrk.com/"], :root [onclick^=3D"location.href=3D'http://www.reimageplu=
+s.com"], :root [id^=3D"section-ad-banner"], :root a[href^=3D"https://go.jul=
+rdr.com/"], :root .trc_rbox_div .syndicatedItemUB, :root [href^=3D"https://=
+zone.gotrackier.com/"], :root [href^=3D"https://detachedbates.com/"], :root=
+ [href^=3D"https://www.targetingpartner.com/"], :root a[href^=3D"https://fo=
+urwhenstatistics.com/"], :root [href^=3D"https://www.restoro.com/"], :root =
+a[href^=3D"https://join.virtuallust3d.com/"], :root .section-subheader > .s=
+ection-hotel-prices-header, :root [href^=3D"https://go.affiliatexe.com/"], =
+:root [href^=3D"https://www.hostg.xyz/"] > img, :root [href^=3D"https://ilo=
+vemyfreedoms.com/landing-"], :root a[href^=3D"https://staRTgaming.net/tiend=
+a/"], :root a[href^=3D"https://STaRtgAmInG.net/tienda/"], :root a[href^=3D"=
+http://adultfriendfinder.com/go/"], :root a[href^=3D"https://fastestvpn.com=
+/lifetime-special-deal?a_aid=3D"], :root a[href^=3D"https://tour.mrskin.com=
+/"], :root div[id^=3D"ad-position-"], :root a[href^=3D"http://affiliate.glb=
+tracker.com/"], :root a[href^=3D"https://leg.xyz/?track=3D"], :root div[id^=
+=3D"crt-"][style], :root a[href^=3D"http://adultgames.xxx/"], :root a[href^=
+=3D"https://traffic.bannerator.com/"], :root [href^=3D"https://shiftnetwork=
+.infusionsoft.com/go/"] > img, :root a[onmousedown^=3D"this.href=3D'http://=
+paid.outbrain.com/network/redir?"][target=3D"_blank"], :root [href^=3D"http=
+s://secure.bmtmicro.com/servlets/"], :root a[href^=3D"https://losingoldfry.=
+com/"], :root .scroll-fixable.rail-right > .deals-rail, :root a[href^=3D"ht=
+tps://oackoubs.com/"], :root a[href^=3D"https://ak.psaltauw.net/"], :root a=
+[href^=3D"https://awptjmp.com/"], :root a[href^=3D"https://go.goasrv.com/"]=
+, :root [href^=3D"http://mypillow.com/"] > img, :root a[href^=3D"http://bon=
+gacams.com/track?"], :root a[href^=3D"https://fleshlight.sjv.io/"], :root [=
+data-ad-manager-id], :root a[href^=3D"https://promo-bc.com/"], :root a[href=
+^=3D"https://clicks.pipaffiliates.com/"], :root [href^=3D"https://noqreport=
+.com/"] > img, :root [href^=3D"https://mypatriotsupply.com/"] > img, :root =
+[href^=3D"https://mylead.global/stl/"] > img, :root #leader-companion > a[h=
+ref], :root a[href^=3D"https://transfer.xe.com/signup/track/redirect?"], :r=
+oot .vid-present > .van_vid_carousel__padding, :root div[id^=3D"adngin-"], =
+:root [data-rc-widget], :root a[href^=3D"https://go.xxxijmp.com"], :root [h=
+ref^=3D"https://istlnkcl.com/"], :root [href^=3D"https://go.4rabettraff.com=
+/"], :root a[href^=3D"https://tm-offers.gamingadult.com/"], :root [href^=3D=
+"https://charmingdatings.life/"], :root [href^=3D"https://glersakr.com/"], =
+:root ins.adsbygoogle, :root a[href^=3D"https://1startfiledownload1.com/"],=
+ :root .trc_rbox_border_elm .syndicatedItem, :root a[href^=3D"http://www.on=
+clickmega.com/jump/next.php?"], :root a[href^=3D"https://wittered-mainging.=
+com/"], :root [href^=3D"https://engine.gettopple.com/"], :root a[href^=3D"h=
+ttps://go.gldrdr.com/"], :root [data-id^=3D"div-gpt-ad"], :root a[href^=3D"=
+https://k2s.cc/pr/"], :root [href^=3D"https://affect3dnetwork.com/track/"],=
+ :root a[href^=3D"https://camfapr.com/landing/click/"], :root [href=3D"//se=
+xcams.plus/"], :root a[href^=3D"https://go.currency.com/"], :root [href^=3D=
+"http://www.mypillow.com/"] > img, :root div[id^=3D"div-ads-"], :root [href=
+^=3D"https://rapidgator.net/article/premium/ref/"], :root [href^=3D"https:/=
+/join3.bannedsextapes.com"], :root div[data-spotim-slot], :root [href^=3D"h=
+ttps://antiagingbed.com/discount/"] > img, :root a[href^=3D"https://go.247t=
+raffic.com/"], :root [href^=3D"https://join.girlsoutwest.com/"], :root [hre=
+f^=3D"http://trafficare.net/"], :root a[href^=3D"https://tc.tradetracker.ne=
+t/"] > img, :root a[href^=3D"https://adserver.adreactor.com/"], :root [href=
+^=3D"http://join.shemalesfromhell.com/"], :root [id^=3D"ad_slider"], :root =
+#searchResultsList > div > div[onclick$=3D"'inline.ad'});"], :root [data-ad=
+bridg-ad-class], :root a[href^=3D"http://www.adultdvdempire.com/?partner_id=
+=3D"][href*=3D"&utm_"], :root [href^=3D"http://join.shemale.xxx/"], :root a=
+[href^=3D"https://ads.betfair.com/redirect.aspx?"], :root [href^=3D"http://=
+www.fleshlightgirls.com/"], :root [href^=3D"http://join.trannies-fuck.com/"=
+], :root .trc_rbox .syndicatedItem, :root a[href^=3D"http://cam4com.go2clou=
+d.org/aff_c?"], :root a[href^=3D"https://cpmspace.com/"], :root [href^=3D"h=
+ttps://freecourseweb.com/"] > .sitefriend, :root a[href^=3D"https://thefacu=
+x.com/"], :root a[href^=3D"https://ads.planetwin365affiliate.com/redirect.a=
+spx?"], :root [href^=3D"http://join.rodneymoore.com/"], :root a[href*=3D".t=
+rust.zone"], :root [href^=3D"https://shrugartisticelder.com"], :root [href^=
+=3D"https://go.xlrdr.com"], :root a[href^=3D"https://staRTgamIng.net/tienda=
+/"], :root div[id^=3D"lazyad-"], :root a[href^=3D"http://com-1.pro/"], :roo=
+t [name^=3D"google_ads_iframe"], :root a[href^=3D"https://go.xxxjmp.com"], =
+:root [data-desktop-ad-id], :root [href^=3D"https://wct.link/"], :root div[=
+recirculation-ad-container], :root [href^=3D"https://traffserve.com/"], :ro=
+ot [href=3D"https://www.masstortfinancing.com/"] > img, :root .ob_container=
+ .item-container-obpd, :root [id^=3D"div-gpt-ad"], :root [href^=3D"https://=
+mypillow.com/"] > img, :root [href^=3D"https://ad.admitad.com/"], :root a[h=
+ref^=3D"https://u.expresstech.io/"], :root a[href^=3D"https://www.geekbuyin=
+g.com/dynamic-ads/"], :root a[href^=3D"https://lnkxt.bannerator.com/"], :ro=
+ot [href=3D"https://jdrucker.com/gold"] > img, :root [href^=3D"https://v.in=
+vestologic.co.uk/"], :root [href^=3D"https://mystore.com/"] > img, :root ad=
+s-right, :root [href^=3D"https://cipledecline.buzz/"], :root a[href^=3D"htt=
+ps://track.ultravpn.com/"], :root [href^=3D"https://goldcometals.com/clk.tr=
+k"], :root a[href^=3D"https://go.hpyjmp.com"], :root [data-mobile-ad-id], :=
+root a[href^=3D"http://tc.tradetracker.net/"] > img, :root a[href^=3D"http:=
+//affiliates.thrixxx.com/"], :root [data-ez-name], :root a[href^=3D"http://=
+go.xtbaffiliates.com/"], :root .grid > .container > #aside-promotion, :root=
+ dfp-ad, :root [data-adblockkey], :root .trc_related_container div[data-ite=
+m-syndicated=3D"true"], :root a[href^=3D"https://www.liquidfire.mobi/"], :r=
+oot [href^=3D"https://click2cvs.com/"], :root a[href^=3D"https://startgAmin=
+g.net/tienda/"], :root [href^=3D"https://safer-redirection.com"], :root [hr=
+ef^=3D"https://optimizedelite.com/"] > img, :root [data-name=3D"adaptiveCon=
+structorAd"], :root [onclick*=3D"content.ad/"], :root amp-ad, :root [data-a=
+d-cls], :root a[href^=3D"https://www.goldenfrog.com/vyprvpn?offer_id=3D"][h=
+ref*=3D"&aff_id=3D"], :root [id^=3D"ad-wrap-"], :root div[id^=3D"taboola-st=
+ream-"], :root [href^=3D"https://go.astutelinks.com/"], :root [class^=3D"am=
+p-ad-"], :root [href^=3D"https://affiliate.fastcomet.com/"] > img, :root [c=
+lass^=3D"adDisplay-module"], :root ad-slot, :root a[href^=3D"https://go.xlv=
+iiirdr.com"], :root [href^=3D"http://join.shemalepornstar.com/"], :root a[h=
+ref^=3D"http://partners.etoro.com/"], :root [data-advadstrackid], :root [hr=
+ef^=3D"https://trackfin.asia/"], :root .plistaList > .plista_widget_underAr=
+ticle_item[data-type=3D"pet"], :root .ob_dual_right > .ob_ads_header ~ .odb=
+_div, :root .trc_rbox_div .syndicatedItem, :root div[data-adunit], :root ap=
+p-large-ad, :root [href^=3D"https://turtlebids.irauctions.com/"] img, :root=
+ a[href^=3D"https://iactrivago.ampxdirect.com/"], :root a[href^=3D"https://=
+a.medfoodhome.com/"], :root [data-ad-module], :root a[href^=3D"https://cam4=
+com.go2cloud.org/"], :root a[href^=3D"http://li.blogtrottr.com/click?"], :r=
+oot a[href^=3D"https://go.cmtaffiliates.com/"], :root a[href^=3D"https://bs=
+.serving-sys.com"], :root [href^=3D"http://residenceseeingstanding.com/"], =
+:root a[href*=3D"//lkstrck2.com/"], :root .plistaList > .itemLinkPET, :root=
+ a[href^=3D"https://traffdaq.com/"], :root [class^=3D"div-gpt-ad"], :root a=
+[href^=3D"https://refpazkjixes.top/"], :root #mgb-container > #mgb, :root [=
+href^=3D"https://www.cloudways.com/en/?id"], :root a[href^=3D"https://trk.s=
+portsflix4k.club/"], :root a[href^=3D"https://go.xlivrdr.com"] { display: n=
+one !important; }
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www3.bcb.gov.br/css/sistema.css
+
+@charset "windows-1252";
+
+@import url("/css/calendar.css");
+
+@import url("/css/corpoInterno.css");
+
+@import url("/css/strutsmenu.css");
+
+@import url("/css/bc_displaytag.css");
+
+body { margin-left: 5px; font-size: 80%; }
+
+title { font-size: 14px; font-weight: bold; }
+
+pre { margin: 0px; }
+
+table { margin: 0px auto; border: 0px; text-align: left; }
+
+table.auto { width: auto; }
+
+table.menu { width: 100px; }
+
+tr { break-inside: avoid; }
+
+th { border-bottom: 1px solid rgb(0, 0, 0); }
+
+th.thform { border-bottom: 1px solid rgb(255, 255, 255); border-top: 1px so=
+lid rgb(255, 255, 255); }
+
+caption { text-align: left; margin: 0px auto; padding: 5px; border-left: 1p=
+x solid rgb(255, 255, 255); border-right: 1px solid rgb(255, 255, 255); }
+
+caption.semBorda { border-width: 0px 0px 1px; border-top-style: initial; bo=
+rder-right-style: initial; border-left-style: initial; border-top-color: in=
+itial; border-right-color: initial; border-left-color: initial; border-imag=
+e: initial; padding: 5px; border-bottom-style: solid; border-bottom-color: =
+rgb(255, 255, 255); }
+
+li.msgErro { list-style-image: url("/img/erro_12x12.gif"); }
+
+li.msgAdvertencia { list-style-image: url("/img/adver_12x12.gif"); }
+
+.tabela98 { width: 98%; }
+
+.codigo { font-family: "Courier New", Courier, mono; font-weight: bold; }
+
+.codTela { color: rgb(87, 87, 87); font-size: 80%; font-weight: bold; }
+
+.msgErro { text-align: center; color: rgb(255, 0, 0); }
+
+.msgSucesso { text-align: center; color: rgb(0, 0, 0); }
+
+.trilhaNav, ctxtrilhanav { font-size: 7pt; font-weight: normal; }
+
+.ctxTrilhaNav { margin-left: 9px; }
+
+.cab { background-color: rgb(0, 51, 102); color: white; }
+
+.vlrNeg { color: red; text-align: right; }
+
+.vlrPos { color: rgb(0, 51, 102); text-align: right; }
+
+.totPos { font-size: 7.5pt; text-align: right; }
+
+.totNeg { color: red; font-size: 7.5pt; text-align: right; }
+
+.transp { background-color: transparent !important; }
+
+.obs { font-size: 7pt; margin: auto; text-align: right; }
+
+.fuM { background: rgb(238, 238, 238); border: 1px solid black; }
+
+.lkM a:link { color: rgb(0, 51, 102); font-weight: bold; }
+
+.lkM a:visited { color: rgb(0, 51, 102); font-weight: bold; }
+
+.lkM a:hover { color: rgb(0, 102, 255); background: white; font-weight: bol=
+d; }
+
+.lkM a:active { color: rgb(0, 51, 102); font-weight: bold; }
+
+th.mtaba a, th.mtabi a { width: 100%; display: block; }
+
+.mtaba { background: rgb(238, 238, 238); text-align: center; padding-top: 2=
+px; padding-bottom: 2px; border-width: 1px; border-style: solid; border-col=
+or: black black rgb(238, 238, 238); }
+
+.mtabi { background: rgb(192, 192, 192); text-align: center; padding-top: 2=
+px; padding-bottom: 2px; border-left: 1px solid rgb(204, 204, 204); border-=
+right: 1px solid rgb(204, 204, 204); border-top: 1px solid rgb(204, 204, 20=
+4); }
+
+.mtaba a:link { color: rgb(0, 0, 255); }
+
+.mtaba a:visited { color: rgb(0, 51, 102); }
+
+.mtaba a:hover { color: rgb(0, 102, 255); }
+
+.mtaba a:active { color: rgb(0, 51, 102); }
+
+.mtabi a:link { color: rgb(0, 0, 255); }
+
+.mtabi a:visited { color: rgb(0, 51, 102); }
+
+.mtabi a:hover { color: rgb(0, 102, 255); }
+
+.mtaba a:active { color: rgb(0, 51, 102); }
+
+.frameaba { width: 99%; height: 250px; padding: 2px; border: 1px solid rgb(=
+0, 0, 0); }
+
+.grpAtivo { display: block; visibility: visible; }
+
+.grpInativo { display: none; visibility: hidden; }
+
+.ordemSelA { background-color: rgb(147, 171, 197); }
+
+.ordemSelB { background-color: rgb(202, 169, 94); }
+
+.ordemSelC { background-color: rgb(167, 167, 167); }
+
+.textoCabOrdena { z-index: 1; position: relative; top: 10px; height: 20px; =
+margin-right: 10px; }
+
+.imgCabOrdena { z-index: 1; position: relative; top: 2px; float: right; }
+
+.menu { margin: 0px; }
+
+.tabela { border: 0px; empty-cells: show; }
+
+.dente { margin: 7px 0px 0px 7px; }
+
+.fu1 { background: rgb(74, 115, 162); color: white; }
+
+.fu2 { background: rgb(147, 171, 197); }
+
+.fu3 { background: rgb(229, 233, 237); }
+
+.fu4 { background: rgb(255, 255, 255); }
+
+.fu5 { background: rgb(244, 244, 244); }
+
+.titulo1 { font-size: 120%; text-align: center; font-weight: bold; }
+
+.titulo2 { font-size: 110%; text-align: center; font-weight: bold; }
+
+.titulo3 { font-size: 100%; text-align: center; font-weight: bold; }
+
+.cab1 { font-weight: bold; }
+
+.opcoes { background-color: rgb(217, 193, 138); color: black; }
+
+.txtMenor1 { font-size: 80%; }
+
+.txtMenor2 { font-size: 70%; }
+
+.txtMaior1 { font-size: 110%; }
+
+.txtMaior2 { font-size: 120%; }
+
+.tit { text-align: center; font-weight: bold; }
+
+.tiNI { color: white; text-align: center; font-weight: bold; }
+
+.tiNIE { color: white; font-weight: bold; font-size: 10pt; margin-left: 3px=
+; }
+
+.txP { font-size: 7pt; font-weight: normal; }
+
+.tx { font-weight: normal; }
+
+.txG { font-size: 12pt; font-weight: normal; }
+
+.txPN { font-size: 7pt; font-weight: normal; }
+
+.txN { font-weight: bold; }
+
+.txGN { font-size: 12pt; font-weight: bold; }
+
+.obsP { font-size: 7pt; color: red; }
+
+.cen { text-align: center; }
+
+.btConf { background: rgb(229, 233, 237); font-family: verdana, sans-serif;=
+ font-size: 10pt; font-weight: bold; color: rgb(0, 51, 102); }
+
+.btCanc { background: rgb(229, 233, 237); font-family: verdana, sans-serif;=
+ font-size: 10pt; font-weight: bold; color: rgb(0, 51, 102); }
+
+.btLimp { background: rgb(229, 233, 237); font-family: verdana, sans-serif;=
+ font-size: 10pt; color: rgb(0, 51, 102); }
+
+.btOut { background: rgb(229, 233, 237); font-family: verdana, sans-serif; =
+font-size: 10pt; font-weight: bold; color: rgb(0, 51, 102); }
+
+.btCal { width: 25px; height: 25px; background: url("/img/s_padraoA/calenda=
+rio.jpg") center center no-repeat rgb(216, 237, 254); }
+
+.btAju { width: 25px; height: 25px; background: url("/img/s_padraoA/interro=
+ga.gif") center center no-repeat rgb(216, 237, 254); }
+
+.btPrc { width: 25px; height: 25px; background: url("/img/s_padraoA/lupa.gi=
+f") center center no-repeat rgb(216, 237, 254); }
+
+.btCalPadraoA { width: 25px; height: 25px; background: url("/img/s_padraoA/=
+calendario.gif") center center no-repeat rgb(216, 237, 254); }
+
+.btAjuPadraoA { width: 25px; height: 25px; background: url("/img/s_padraoA/=
+interroga.gif") center center no-repeat rgb(216, 237, 254); }
+
+.btPrcPadraoA { width: 25px; height: 25px; background: url("/img/s_padraoA/=
+lupa.gif") center center no-repeat rgb(229, 233, 237); }
+
+.btCalPadraoB { width: 25px; height: 25px; background: url("/img/s_padraoB/=
+calendario.gif") center center no-repeat rgb(245, 236, 214); }
+
+.btAjuPadraoB { width: 25px; height: 25px; background: url("/img/s_padraoB/=
+interroga.gif") center center no-repeat rgb(245, 236, 214); }
+
+.btPrcPadraoB { width: 25px; height: 25px; background: url("/img/s_padraoB/=
+lupa.gif") center center no-repeat rgb(245, 236, 214); }
+
+.rotulo { text-align: right; }
+
+.Cdis { color: rgb(0, 51, 102); background: rgb(238, 224, 193); }
+
+.Crdo { color: rgb(0, 51, 102); background: rgb(238, 224, 193); }
+
+.CdisB { background: rgb(214, 214, 214); }
+
+.CrdoB { background: rgb(235, 235, 235); }
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www3.bcb.gov.br/css/calendar.css
+
+@charset "windows-1252";
+
+@import url("/css/corpoInterno.css");
+
+.calendar .button { padding: 2px; text-align: center; }
+
+.calendar .combo { background: rgb(221, 238, 255); border: 1px solid rgb(10=
+2, 85, 85); color: rgb(0, 0, 0); cursor: default; display: none; font-size:=
+ 90%; left: 0px; position: absolute; top: 0px; width: 4em; z-index: 100; }
+
+.calendar .combo .active { background: rgb(241, 248, 252); border-bottom: 1=
+px solid rgb(68, 102, 170); border-top: 1px solid rgb(68, 102, 170); font-w=
+eight: 700; }
+
+.calendar .combo .hilite { background: rgb(221, 238, 255); border-bottom: 1=
+px solid rgb(68, 102, 170); border-top: 1px solid rgb(68, 102, 170); font-w=
+eight: 700; }
+
+.calendar .combo .label, .calendar .combo .label-IEfix { padding: 1px; text=
+-align: center; }
+
+.calendar .combo .label-IEfix { width: 4em; }
+
+.calendar table { margin: 0px; }
+
+.calendar table .wn { background: rgb(255, 255, 255); border-right: 1px sol=
+id rgb(0, 0, 0); padding: 2px 3px 2px 2px; }
+
+.calendar tbody .day { color: rgb(0, 0, 0); padding: 2px 4px 2px 2px; text-=
+align: right; width: 2em; }
+
+.calendar tbody .day.othermonth { color: rgb(187, 187, 187); font-size: 80%=
+; }
+
+.calendar tbody .day.othermonth.oweekend { color: rgb(255, 187, 187); }
+
+.calendar tbody .disabled { color: rgb(153, 153, 153); }
+
+.calendar tbody .emptycell { visibility: hidden; }
+
+.calendar tbody .emptyrow { display: none; }
+
+.calendar tbody .rowhilite td, .calendar tbody .rowhilite td.wn { backgroun=
+d: rgb(229, 233, 237); }
+
+.calendar tbody td.active { background: rgb(204, 221, 238); padding: 2px 2p=
+x 0px; }
+
+.calendar tbody td.hilite { background: rgb(242, 244, 246); border: 1px sol=
+id rgb(62, 62, 62); padding: 1px 3px 1px 1px; }
+
+.calendar tbody td.selected { background: rgb(255, 255, 255); border: 1px s=
+olid rgb(0, 0, 0); color: rgb(0, 0, 0); font-weight: 700; padding: 1px 3px =
+1px 1px; }
+
+.calendar tbody td.today { color: rgb(213, 0, 0); font-weight: 700; }
+
+.calendar td.time { background: rgb(227, 240, 249); border-top: 1px solid r=
+gb(0, 0, 0); padding: 1px 0px; text-align: center; }
+
+.calendar td.time .ampm { text-align: center; }
+
+.calendar td.time .colon { font-weight: 700; padding: 0px 2px 0px 3px; }
+
+.calendar td.time .hour, .calendar td.time .minute, .calendar td.time .ampm=
+ { background: rgb(241, 248, 252); border: 1px solid rgb(136, 136, 153); fo=
+nt-weight: 700; padding: 0px 3px 0px 4px; }
+
+.calendar td.time span.active { background: rgb(0, 0, 0); border-color: red=
+; color: rgb(165, 255, 0); }
+
+.calendar td.time span.hilite { background: rgb(38, 125, 183); border-color=
+: rgb(0, 0, 0); color: rgb(255, 255, 255); }
+
+.calendar tfoot .active { background: rgb(0, 106, 169); padding: 2px 0px 0p=
+x 2px; }
+
+.calendar tfoot .footrow { background: rgb(32, 106, 155); color: rgb(255, 2=
+55, 255); text-align: center; }
+
+.calendar tfoot .hilite { background: rgb(184, 218, 240); border: 1px solid=
+ rgb(23, 138, 235); color: rgb(0, 0, 0); padding: 1px; }
+
+.calendar tfoot .ttip { background: rgb(0, 51, 102); border-top: 1px solid =
+rgb(32, 106, 155); color: rgb(255, 255, 255); padding: 1px; width: 1pt; }
+
+.calendar thead .active { background: rgb(0, 106, 169); border: 1px solid r=
+gb(0, 138, 255); padding: 2px 0px 0px 2px; }
+
+.calendar thead .daynames { background: rgb(239, 239, 239); }
+
+.calendar thead .hilite { background: rgb(229, 233, 237); border: 1px solid=
+; color: rgb(0, 0, 0); padding: 1px; }
+
+.calendar thead .name { border-bottom: 1px solid rgb(0, 51, 102); color: rg=
+b(0, 0, 0); padding: 2px; text-align: center; }
+
+.calendar thead .title { background: rgb(0, 51, 102); color: rgb(255, 255, =
+255); font-weight: 700; padding: 2px; text-align: center; }
+
+.calendar thead .weekend, .calendar tbody td.weekend { color: rgb(175, 143,=
+ 58); }
+
+.calendar thead tr { background: rgb(0, 51, 102); color: rgb(255, 255, 255)=
+; }
+
+.calendar, .calendar table { background: rgb(242, 244, 246); border: 1px so=
+lid rgb(0, 51, 102); color: red; cursor: default; font-family: tahoma, verd=
+ana, sans-serif; font-size: 11px; }
+
+.calendar-trigger { background: url("/img/calendarioazul.gif") center cente=
+r no-repeat rgb(216, 237, 254); height: 22px; width: 22px; }
+
+.calendario-trigger { cursor: pointer; }
+
+div.calendar { position: relative; }
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www3.bcb.gov.br/css/corpoInterno.css
+
+@charset "windows-1252";
+
+@media screen {
+  .adireita { margin-right: 1%; text-align: right; }
+  .aesquerda { margin-left: 1%; text-align: left; }
+  .botao { background: rgb(229, 233, 237); }
+  .btCal { background: url("/img/CalendarioAzul.gif") center center no-repe=
+at rgb(216, 237, 254); height: 25px; width: 25px; }
+  .caixaLateralCent { background: rgb(229, 233, 237); border: 0.1em dotted =
+rgb(0, 0, 0); color: rgb(0, 0, 0); left: 43%; margin-right: 2.5em; padding:=
+ 0.5em; position: relative; width: 150px; margin-top: 1.5em !important; }
+  .caixaLateralDir { background: rgb(229, 233, 237); border: 0.1em dotted r=
+gb(0, 0, 0); color: rgb(0, 0, 0); float: left; margin-left: 2.5em; margin-r=
+ight: 2.5em; padding: 0.5em; width: 150px; margin-top: 1.5em !important; }
+  .caixaLateralEsq { background: rgb(229, 233, 237); border: 0.1em dotted r=
+gb(0, 0, 0); color: rgb(0, 0, 0); float: right; margin-left: 2.5em; margin-=
+right: 2.5em; padding: 0.5em; width: 150px; margin-top: 1.5em !important; }
+  .centralizado { text-align: center; }
+  .floatDir { float: right; }
+  .floatEsq { float: left; }
+  .fundoPadraoAClaro1 { background: rgb(147, 171, 197); color: rgb(0, 0, 0)=
+; }
+  .fundoPadraoAClaro1a { background: rgb(180, 196, 217); color: rgb(0, 0, 0=
+); }
+  .fundoPadraoAClaro2 { background: rgb(229, 233, 237); color: rgb(0, 0, 0)=
+; }
+  .fundoPadraoAClaro2a { background: rgb(235, 238, 241); color: rgb(0, 0, 0=
+); }
+  .fundoPadraoAClaro3 { background: rgb(242, 244, 246); color: rgb(0, 0, 0)=
+; }
+  .fundoPadraoAEscuro1 { background: rgb(0, 40, 83); color: rgb(255, 255, 2=
+55); }
+  .fundoPadraoAEscuro1a { background: rgb(19, 60, 99); color: rgb(255, 255,=
+ 255); }
+  .fundoPadraoAEscuro2 { background: rgb(0, 61, 121); color: rgb(255, 255, =
+255); }
+  .fundoPadraoAEscuro2a { background: rgb(12, 76, 140); color: rgb(255, 255=
+, 255); }
+  .fundoPadraoAEscuro3 { background: rgb(74, 115, 162); color: rgb(255, 255=
+, 255); }
+  .fundoPadraoBClaro1 { background: rgb(238, 224, 193); color: rgb(0, 0, 0)=
+; }
+  .fundoPadraoBClaro1a { background: rgb(236, 227, 204); color: rgb(0, 0, 0=
+); }
+  .fundoPadraoBClaro2 { background: rgb(245, 236, 214); color: rgb(0, 0, 0)=
+; }
+  .fundoPadraoBClaro2a { background: rgb(246, 241, 228); color: rgb(0, 0, 0=
+); }
+  .fundoPadraoBClaro3 { background: rgb(252, 248, 239); color: rgb(0, 0, 0)=
+; }
+  .fundoPadraoBEscuro1 { background: rgb(175, 140, 58); color: rgb(255, 255=
+, 255); }
+  .fundoPadraoBEscuro1a { background: rgb(191, 156, 76); color: rgb(255, 25=
+5, 255); }
+  .fundoPadraoBEscuro2 { background: rgb(202, 169, 94); color: rgb(255, 255=
+, 255); }
+  .fundoPadraoBEscuro2a { background: rgb(205, 178, 117); color: rgb(255, 2=
+55, 255); }
+  .fundoPadraoBEscuro3 { background: rgb(217, 193, 138); color: rgb(0, 0, 0=
+); }
+  .fundoPadraoCClaro1 { background: rgb(167, 167, 167); color: rgb(0, 0, 0)=
+; }
+  .fundoPadraoCClaro1a { background: rgb(189, 188, 188); color: rgb(0, 0, 0=
+); }
+  .fundoPadraoCClaro2 { background: rgb(214, 214, 214); color: rgb(0, 0, 0)=
+; }
+  .fundoPadraoCClaro2a { background: rgb(236, 236, 236); color: rgb(0, 0, 0=
+); }
+  .fundoPadraoCClaro3 { background: rgb(235, 235, 235); color: rgb(0, 0, 0)=
+; }
+  .fundoPadraoCEscuro1 { background: rgb(64, 64, 64); color: rgb(255, 255, =
+255); }
+  .fundoPadraoCEscuro1a { background: rgb(72, 71, 71); color: rgb(255, 255,=
+ 255); }
+  .fundoPadraoCEscuro2 { background: rgb(87, 87, 87); color: rgb(255, 255, =
+255); }
+  .fundoPadraoCEscuro2a { background: rgb(104, 104, 104); color: rgb(255, 2=
+55, 255); }
+  .fundoPadraoCEscuro3 { background: rgb(126, 126, 126); color: rgb(255, 25=
+5, 255); }
+  .grpAtivo { display: block; visibility: visible; }
+  .linhaTopo { border-bottom: 1px solid rgb(192, 205, 222); font-size: 20%;=
+ margin-top: 10px; text-align: right; }
+  .lista1 { list-style-image: url("/img/BulletAzul1.gif"); margin-left: 30p=
+x; margin-top: 0px; padding: 5px; vertical-align: middle; }
+  .lista2 { list-style-image: url("/img/BulletAzul2.gif"); margin-left: 20p=
+x; margin-top: 0px; padding: 5px; vertical-align: middle; }
+  .lista3 { list-style-image: url("/img/BulletAzul3.gif"); margin-left: 15p=
+x; margin-top: 0px; padding: 5px; vertical-align: middle; }
+  .lista4 { list-style-image: url("/img/BulletAzul4.gif"); margin-left: 10p=
+x; margin-top: 0px; padding: 5px; vertical-align: middle; }
+  .naoExibeNaTela, .grpInativo { display: none; visibility: hidden; }
+  .nomeCampo { margin-right: 5px; text-align: right; }
+  .obrigatorio { color: red; }
+  .semNegrito { font-weight: 400; }
+  .semTemplate { font-family: verdana; font-size: 80%; margin: 10px; }
+  .tabela { border: 0px; empty-cells: show; }
+  .tamanho10 { width: 10%; }
+  .tamanho15 { width: 15%; }
+  .tamanho20 { width: 20%; }
+  .tamanho30 { width: 30%; }
+  .tamanho40 { width: 40%; }
+  .tamanho5 { width: 5%; }
+  .tamanho50 { width: 50%; }
+  .tamanho60 { width: 60%; }
+  .tamanho70 { width: 70%; }
+  .tamanho80 { width: 80%; }
+  .tamanho90 { width: 90%; }
+  .textoGrande { font-size: 120%; }
+  .textoNormal { font-size: 100%; }
+  .textoPequeno { font-size: 80%; }
+  .textoPequeno2 { font-size: 90%; }
+  .tituloCabecalho { color: rgb(0, 40, 83); }
+  a.cabecalho:link { color: rgb(0, 54, 215); text-decoration: none; }
+  a.cabecalho:visited { color: rgb(239, 231, 207); text-decoration: none; }
+  a.linkTitulos:link, a.linkTitulos:visited, a.cabecalho:active { color: rg=
+b(0, 54, 215); }
+  a.linkTopo1:link, a.linkTopo1:visited { color: rgb(255, 255, 255); vertic=
+al-align: top; }
+  a.linkTopo2:link, a.linkTopo2:hover, a.linkTopo2:visited { color: rgb(255=
+, 255, 255); height: 15px; padding-top: 0px; vertical-align: top; }
+  a:active, a.template:active { color: rgb(0, 54, 215); }
+  a:hover, a.template:hover, a.cabecalho:hover { color: rgb(51, 102, 255); =
+}
+  a:link, a.template:visited, a.template:link { color: rgb(0, 54, 215); tex=
+t-decoration: none; }
+  a:visited { color: rgb(128, 102, 43); text-decoration: none; }
+  body, table, tr, hr, td, div, span { font-family: verdana; font-size: 100=
+%; }
+  code { background: rgb(235, 235, 235); display: inline; }
+  div.desc { margin-left: 50%; }
+  div.lista1 { margin-left: 40px; }
+  div.lista2 { margin-left: 80px; }
+  div.tab { margin-left: 40px; padding: 5px; }
+  h1, .h1 { display: block; font-size: 130%; font-weight: 700; padding: 20p=
+x 0px 6px; }
+  h2, .h2 { display: block; font-size: 120%; font-weight: 700; margin: 15px=
+ 0px 3px; }
+  h3, .h3 { display: block; font-size: 110%; font-weight: 700; margin: 10px=
+ 0px 2px; }
+  h4, .h4 { display: block; font-size: 100%; font-weight: 700; margin: 7px =
+0px 1px; }
+  h5, .h5 { display: block; font-size: 90%; font-weight: 700; margin: 4px 0=
+px 0px; }
+  h6, .h6 { display: block; font-size: 80%; font-weight: 700; margin: 2px 0=
+px 0px; }
+  input, select, textarea { font-family: verdana; font-size: 85%; }
+  p { margin: 0px; padding: 10px 0px 0px; }
+  pre { font-size: 110%; }
+  span.lista1 { margin-left: -24px; text-align: center; text-indent: -5px; =
+width: 25px; }
+  span.lista2 { margin-right: 2px; text-indent: -20px; }
+  table, img { border: 0px; }
+}
+
+@media print {
+  .breadCrumb { margin-left: 6px; }
+  .h1, .h2, .h3 { font-size: 100%; }
+  .naoimprime { display: none; }
+  body { font-family: verdana; font-size: 90%; }
+  body.semTemplate { font-family: verdana; font-size: 60%; margin: 10px; }
+  caption, tr.fundoPadraoAEscuro1, tr.fundoPadraoAEscuro2, tr.fundoPadraoAE=
+scuro3, tr.fundoPadraoBEscuro1, tr.fundoPadraoBEscuro2, tr.fundoPadraoBEscu=
+ro3, tr.fundoPadraoCEscuro1, tr.fundoPadraoCEscuro2, tr.fundoPadraoCEscuro3=
+ { background: rgb(214, 214, 214); }
+  img { border: 0px; vertical-align: middle; }
+  table { display: table; empty-cells: show; font-size: 90%; margin: auto; =
+text-align: center; }
+  table td { border: 1px solid rgb(0, 0, 0); empty-cells: show; padding: 1p=
+x; text-align: left; }
+  table.tabela { border: 1px solid rgb(0, 0, 0); border-collapse: collapse;=
+ border-spacing: 1px; empty-cells: show; }
+  table.tabela td { border-collapse: collapse; border-color: rgb(0, 0, 0); =
+border-spacing: 1px; border-style: solid; border-width: 1px; empty-cells: s=
+how; }
+  td.nomeCampo { margin-right: 5px; text-align: right; }
+  textarea { white-space: nowrap; }
+}
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www3.bcb.gov.br/css/strutsmenu.css
+
+@charset "windows-1252";
+
+.clBar { background: rgb(239, 239, 239); border-bottom: 1px solid; color: r=
+gb(0, 51, 102); position: static; visibility: hidden; width: 100%; }
+
+.clBar2 { background: rgb(252, 248, 239); border-width: 1px; border-style: =
+solid; border-color: rgb(238, 224, 193); color: rgb(0, 51, 102); margin-lef=
+t: 9px; position: static; visibility: hidden; width: 100%; }
+
+.clCMAbs { left: 0px; position: absolute; top: 0px; visibility: hidden; }
+
+.cmItem { background: rgb(239, 239, 239); border-bottom: 1px solid rgb(208,=
+ 208, 208); color: rgb(0, 0, 0); font-family: arial; font-size: 8pt; paddin=
+g-bottom: 1px; padding-left: 2px; position: absolute; }
+
+.cmItem2 { background: rgb(252, 248, 239); border-bottom: 1px solid rgb(208=
+, 208, 208); color: rgb(0, 0, 0); font-family: arial; font-size: 8pt; paddi=
+ng-bottom: 1px; padding-left: 2px; position: absolute; }
+
+.cmItemBorder { background: rgb(0, 102, 255); position: absolute; visibilit=
+y: hidden; }
+
+.cmItemBorder2 { background: rgb(175, 143, 58); position: absolute; visibil=
+ity: hidden; }
+
+.cmItemOver { background: rgb(255, 255, 255); border-bottom: 1px solid rgb(=
+208, 208, 208); color: rgb(0, 101, 255); cursor: pointer; font-family: aria=
+l; font-size: 8pt; padding-bottom: 1px; padding-left: 2px; position: absolu=
+te; }
+
+.cmItemOver2 { background: rgb(255, 255, 255); border-bottom: 1px solid rgb=
+(208, 208, 208); color: rgb(175, 143, 58); cursor: pointer; font-family: ar=
+ial; font-size: 8pt; padding-bottom: 1px; padding-left: 2px; position: abso=
+lute; }
+
+.cmMenu { background: rgb(239, 239, 239); border-left: 1px solid rgb(0, 48,=
+ 99); color: rgb(0, 51, 102); font-family: verdana; font-size: 12px; font-w=
+eight: 700; position: static; text-align: center; }
+
+.cmMenu2 { background: rgb(252, 248, 239); border-left: 1px solid rgb(238, =
+224, 193); color: rgb(0, 51, 102); font-family: verdana; font-size: 12px; f=
+ont-weight: 700; padding-left: 5px; padding-right: 5px; position: static; t=
+ext-align: left; }
+
+.cmMenuBorder, .cmMenuBorder2 { position: absolute; visibility: hidden; }
+
+.cmMenuOver { background: rgb(255, 255, 255); border-left: 1px solid rgb(0,=
+ 48, 99); color: rgb(0, 101, 255); cursor: pointer; font-family: verdana; f=
+ont-size: 12px; font-weight: 700; position: static; text-align: center; }
+
+.cmMenuOver2 { background: rgb(255, 255, 255); border-left: 1px solid rgb(2=
+38, 224, 193); color: rgb(175, 143, 58); cursor: pointer; font-family: verd=
+ana; font-size: 12px; font-weight: 700; padding-left: 5px; padding-right: 5=
+px; position: static; text-align: left; }
+
+.ctxMenuBox { margin-top: 10px; width: 100%; }
+
+.ctxMenuContent { background: rgb(252, 248, 239); border-width: 1px; border=
+-style: solid; border-color: rgb(238, 224, 193) rgb(238, 224, 193) rgb(252,=
+ 248, 239); margin-left: 9px; padding-left: 5px; padding-right: 5px; }
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www3.bcb.gov.br/css/bc_displaytag.css
+
+@charset "windows-1252";
+
+th a, th a:visited, th a:hover { color: rgb(255, 255, 255); }
+
+th.order1 a { background: url("/img/cresc.gif") no-repeat; color: rgb(255, =
+255, 255); padding: 3px 15px; }
+
+th.order2 a { background: url("/img/decresc.gif") no-repeat; color: rgb(255=
+, 255, 255); padding: 3px 15px; }
+
+th.sortable a { background: url("/img/ativar.gif") no-repeat; color: rgb(25=
+5, 255, 255); padding: 3px 15px; }
+
+th.sorted { background: rgb(147, 171, 197); }
+
+th.sorted a, th.sortable a { background: right center; display: table; widt=
+h: 100%; }
+
+thead tr { background: rgb(74, 115, 162); color: rgb(255, 255, 255); }
+
+tr.odd { background: rgb(242, 244, 246); }
+
+tr.tableRowEven, tr.even { background: rgb(229, 233, 237); }
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www3.bcb.gov.br/img/logoSistemas.gif
+
+R0lGODlhpQAjANUAAAA6eipWgjpjjJarwv///46lvujs8cTQ3Qk8btLb5mODpNvi6nyWshxLerPD
+0yJPfWyKqcvV4TJch0Rqkaq7zgw+cIOct6K1yfP2+FF1mhVFdeLn7u3w9U5yl77L2Zywxl1+oUlu
+lHCNrPb4+vn6/Ka4yw4/cfv8/fz8/lh6nRBBcnSQrvz9/fDz9vf5+q6+0LfG1hJDdBhHd7rI11V3
+nP39/j9mjmeGpmmIp6CzyP3+/miHqEFnkBNEdGCAov/9/SH5BAEAAAAALAAAAAClACMAAAb/QIBw
+SCwaj8ikcslsOp/QqHRKrVqv2Kx2y+16v+CweEwum89oacUnSLvfZN4rZOzJ4Pi8FGKRqIoNFnR6
+hIVHIBwFdTkcHUgCCjgQKRpCMjciEkITKxkVABkZfxI4Fgw2AAEiFhABRQ8KFhY2DTQ7ECIZDQo7
+rgI3EhkikgwCICIrKzR3AA8rDJqgK9GGSjQbBAUmRQEkHINGBQYGHAYFfxktI4oAFBgbmgcRMjwJ
+Jxg6AzYwKBwoEa6ESDhAAsOJEhkOcNjQggIPAy0+AGBggIGDE+pOMFiAgQQKc0IUjCAx4A4MDDiq
+JanQARsBC0Yk9EN1JAcBERN+bHgQo4QO/wwJNDkgkM3EAoAHdBSQYCNECRbQBhC4IKTHCwIlJAgI
+1iKHhAANQhDd8OtmAAsEYIQIwKEGCAUEdmqgoIMFPAAzdIhQieRBBKI6vAYI8DUVihYKHgyW0GBI
+jhoeXtRQJGHEAAUuIACA0WIDBgERDqTAcCCGwAUJXElosaCxhBNBh4QwkKDAgA48anD8sGPEDgAp
+TnwwUcFAjQEfhFcQgOGFBRcrNhPQzLeIiQYlPBPovGEcjVQ1Pi7YwOHFgyEXCCT4O0AFAwKXa1Do
+4WEBAw4OEhy4MQLGEAELHHBeA52dN4EOHjADwGwcyCOCDQTkkEMLMBigGQgn5BCDCRugoP8DAQag
+8l4JDJDgAABDUVedEMIAIIMAMBAl4wqjfAhYAjQJUQIBCmiQQAs2DEVADXEJMAMHElBAAgkehNBZ
+G81E0EIbGYyQwCcPtMDBd0KEgMEADVQi1gcCDGmAAgBgqKEJBpBwg2Q0egAYiA9cheaKAEywjhAV
+SJBCBxnQIMA2AMTQwaGHBsTnVQfMANsKIyxwKAXZRECCBHqq10ABIJbgQAEFRHqBcb8BYIII2zlA
+gQU+bLDABzkwkAIBFKhgUwsp+VBDDj2Y0AIBAkxAgGgYRNBBCFdZIOcCM8ywoj0MYGFBAgswO4EF
+C9ywSQQUOHBAGwMkUIIGFayQQHcFyAD/wbkJpDREBSAc0N0AyCZA7RwRwFTPAY6EkK8KFcAQwaAw
+HEBBBHdOcEAJJURgbwLPakSEBCH0cMRWK1XwCQAqEDoEcRsDELIQGxJhGhIm/MFEyCOHbEIMI5uq
+MZ5CQDvEAzCMawSAd9Lscxc2i8xpe4AkQIIjR8jwwNIKujhY0yos/UADnyjNNBEN8DRED4o1pnQF
+Sqv88xYJsECmADT8pU0REujQwgQTVzyRPAfkcEMlAuRgbwkTbNzBDB4c8MINMqxwQOA58PCJBCV4
+QF0ABRywQAkBMDCDBCt4gPTYWiww5JInEHkOn9u03QI4DVzwQWNDLeABBi/5hWDrUK5A/wAHH2Dg
+Ag1SzRCjgACgRUBrKnxAQAQDLDXUBEPtxbkWHozDgYzDmsLAAN8FQIALOTxjQQEinAfAjito4AMG
+GHA6g8U7MrANDiccIEEEG9BQgAsh2GBABDzJexUNKjgAAVYnBAeQwAY70tbzsiCAEIQABAmgnow2
+4AgJyMhGJWiMjqYjBAFigx22u8AdcECCFiQABTBowAd0YC8DgGBB6zgQBdK0Ad0UoE4HTOACuaAB
+OVFvAy+giV+mR5QBiG+D2nqA5+QkkeDBx2Lwi0AKZrABCAzARAkYAQ8AwKkEyMkAqmFAAnTAgBe4
+wAYX0AGXdpgFv0iQARoU2UAIoJQ4iv+MUiWAQIxmMAEMGEAEPvBcBoQAgRokoANyusAAMDABELxE
+Aj96QQkieIoUhCBGBXgBC2xAqQ8o4AZHZCMVGuAAP3LgQy8sQglaYIFKEKECV7kHCigQgHKRoAYj
+sYDFAAABFtSAAyOYgQA+QIIJNMBhA2CBEWUAAhIkgJgGQMEMAkApHvjEBS0wADhEOYUKKCYAKcDG
+IAERgF0WYQKSuAEPNKiCCTCAASE4WSoU8EldVIAHCmiMDVKQAQUEJAY0AAEPRMAAHxjIBw0wBgh8
+AAI7crMKAIoQBCaKCwaEsggVMAFxjKACsb1rZu/6qMf4ZCqAhVRkGovZQ6nAA8+xYEkkS1KKPFdK
+UyaAJpvjIIcFVFrTnvr0p0ANqlCHStSiGvWocAgCADs=
+
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www3.bcb.gov.br/img/seta.gif
+
+R0lGODlhCgAKAIAAADxnrv///yH5BAUUAAEALAAAAAAKAAoAAAIPjI+pCHvtApQUznSZy7EAADs=
+
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www3.bcb.gov.br/img/fundoclaro/glos2.gif
+
+R0lGODlhCAAMAIABAP///////yH5BAEAAAEALAAAAAAIAAwAAAIUTIBgl8jbFJSTMpuWcfr1v1nh
+UgAAOw==
+
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www3.bcb.gov.br/img/transferirA.gif
+
+R0lGODlhDAAMAIABAABNo////yH5BAEAAAEALAAAAAAMAAwAAAIdhI8QyhjL4HlGOviyxrZitTXL
+Nlag1njoR6ZJUgAAOw==
+
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www3.bcb.gov.br/img/home/navtopo.gif
+
+R0lGODlhEQASAJEAAP///yxzpAAoUwAAACH5BAQUAP8ALAAAAAARABIAAAIxlI95we1vnnRRglkd
+2DKzDUKCBoZNVqbn+JgUS16ixc1t/dJyfu+r3oFNbEOR4ngoAAA7
+
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www3.bcb.gov.br/img/home/navbase.gif
+
+R0lGODlhEQASAJEAAP///yxzpAAoUwAAACH5BAQUAP8ALAAAAAARABIAAAIylI95we1vnnTxgSur
+uyALyXkgBn0WSZkb2mhNWL7c3DEuzboBHZ91OvkBJxMd0aZIIgoAOw==
+
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www3.bcb.gov.br/img/home/navvolta.gif
+
+R0lGODlhEQASAJEAAP///yxzpAAoUwAAACH5BAQUAP8ALAAAAAARABIAAAIxlI95we1vnnRxzmqh
+kMBiBnTX1oSihJmqyVTr25LBq8YOOz6hJ5d8huoBA5+h4pgoAAA7
+
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www3.bcb.gov.br/img/home/navinicial.gif
+
+R0lGODlhEQASAJEAAP///yxzpAAoUwAAACH5BAQUAP8ALAAAAAARABIAAAI8lI95we1vnnRRggBy
+qy7ry3CM921C93lmo45aeGIv+1YzCrMTGHBgy/ONMMNc8fJbyUhM40QiepoU1EMBADs=
+
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www3.bcb.gov.br/img/home/navimprimir.gif
+
+R0lGODlhEQASAJEAAP///yxzpAAoUwAAACH5BAQUAP8ALAAAAAARABIAAAI+lI95we1vnnSxgXtl
+ZcB2KjjdGHzMVnpmgK5pU2FlJrNh6pI2N2P0eXOJgLzJK+ZLfjbKDOxmhECjT4X1UAAAOw==
+
+------MultipartBoundary--8Fu7K7d0ITX4keQ56x1n4crCzpY0DcSxZy6YfqUbCS------
