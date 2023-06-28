@@ -1,29 +1,43 @@
 ---
-title: "Untitled"
+title: "Lista - AP2 - Identificação e Modelagem de Processos Estacionários"
+author: "Jessé Peixoto de Freitas"
+date: "`r format(Sys.Date(), '%d/%m/%Y')`"
 output: html_document
-date: "`r Sys.Date()`"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## Questão 1:
 
-## R Markdown
+Calcule as FAC e FACP (5 primeiros valores) para os processos estacionários a seguir:
+        
+  a. $Y_t = \varepsilon _t + \theta \varepsilon_{t-1}; \theta = -0,5$
+  
+  b. $(1 - \phi L )Y_t = \varepsilon _t; \phi = -0,9$
+  
+  c. $(1 - \phi L )Y_t = \varepsilon _t + \theta \varepsilon_{t-1} ; \phi = -0,9 ; \theta = -0,5; $
+  
+## Questão 2:
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Obtenha as Séries do IPCA (IBGE), Saldo de Crédito Total (BCB), Retornos do
+Ibovespa e o preço de um ativo presente na B3 à sua escolha. (Todas mensais, de
+01/2015 a 12/2022). Então, para cada série:
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+  a. Realize os testes de identificação, assim como os de Critério de Informação e
+Diagnóstico de Resíduos.
 
-```{r cars}
-summary(cars)
-```
+  b. Plote os gráficos de FAC e FACP.
 
-## Including Plots
+  c. Estime os coeficientes e apresente os modelos. (Utilize software apropriado)
 
-You can also embed plots, for example:
+  d. O preço do ativo pode ser modelado por um processo estacionário? Se não,
+justifique e verifique se o retorno desse ativo é um processo estacionário.
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+## Questão 3: 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Utilizando as séries disponibilizadas no arquivo "AP2.xlsx", faça para cada uma das séries o que se pede:
+
+a. Realize os testes de identificação, assim como os de Critério de Informação e
+Diagnóstico de Resíduos.
+
+b. Plote os gráficos de FAC e FACP.
+
+c. Estime os coeficientes e apresente os modelos. (Utilize software apropriado)
