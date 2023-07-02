@@ -1,0 +1,181 @@
+---
+title: "Lista - AP2 - Identificação e Modelagem de Processos Estacionários"
+author: "Jessé Peixoto de Freitas"
+date: "`r format(Sys.Date(), '%d/%m/%Y')`"
+output: html_document
+---
+
+---
+
+### Introdução
+
+  O presente trabalho tem como objetivo estudar o comportamento de alguns indicadores econômicos, como IPCA, e financeiros e avaliar suas séries temporais. Os modelo de séries temporais considerados serão AR - Autoregressivos, MA - Média móvel e ARMA -  Autoregressivos de Média móvel, assim como suas respectivas Funções de Autocorrelação - FAC (*em inglês ACF - autocorrelation function*) e Autocorrelação Parcial (*em inglês PACF - Partial autocorrelation function*). Serão usados alguns testes de validação como Ljung-Box que avalia a autocorrelação do resíduos como suas defasagens. O Objetivo é verificar se a série apresenta Estacionariedade e apartir disso determina modelo e suas estimativas. O software ultilizado será o R/RStudio e os pacotes utilizados seram apresentados ao longo do texto.
+
+---
+
+### Questão 1:
+
+Calcule as FAC e FACP (5 primeiros valores) para os processos estacionários a seguir:
+---
+a) $Y_t = \varepsilon _t + \theta \varepsilon_{t-1}; \theta = -0,5$
+
+---
+b) $(1 - \phi L )Y_t = \varepsilon _t; \phi = -0,9$
+
+---
+c) $(1 - \phi L )Y_t = \varepsilon _t + \theta \varepsilon_{t-1} ; \phi = -0,9 ; \theta = -0,5$
+
+---
+
+### Questão 2:
+
+  Obtenha as Séries do IPCA (IBGE - Instituto Brasileiro de Geografia e Estatística), Saldo de Crédito Total (BCB - Banco Central do Brasil), Retornos do Ibovespa e o preço de um ativo presente na B3 à sua escolha. (Todas mensais, de 01/2015 a 12/2022). Então, para cada série:
+
+Fontes utilizadas:
+---
+
+  - Fonte IBGE: [ibge.gov.br/](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=series-historicas)
+  
+  - Fonte BCB: [bcb.gov.br/](https://www3.bcb.gov.br/sgspub/consultarvalores/consultarValoresSeries.do?method=consultarValores)
+  
+  - Fonte IBOVESPA: [br.financas.yahoo.com/quote/%5EBVSP](https://br.financas.yahoo.com/quote/%5EBVSP/history?period1=1420070400&period2=1672444800&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true)
+
+  - Fonte AAPL: [br.financas.yahoo.com/quote/AAPL](https://br.financas.yahoo.com/quote/AAPL/history?period1=1420070400&period2=1672444800&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true)
+  
+Definindo as Séries temporais:
+
+Definindo a Série temporal para Saldo da Carteira de Credito em R\$ (Milhões), Ibovespa em R\$ (Milhões), IPCA e ativo AAPL presente na B3.
+
+<!-- Carregando os arquivos: -->
+
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=TRUE}
+library(readr)
+AAPL <- read_csv("AAPL.csv", col_types = cols(Date = col_date(format = "%Y-%m-%d")), locale = locale(decimal_mark = ",", grouping_mark = "."))
+
+IPCA <- read_csv("IPCA.csv", col_types = cols(Data = col_date(format = "%m/%Y")), locale = locale(decimal_mark = ",", grouping_mark = "."))
+
+Ibovespa <- read_csv("Ibovespa.csv", col_types = cols(Date = col_date(format = "%Y-%m-%d")), locale = locale(decimal_mark = ",", grouping_mark = "."))
+  
+Saldo <- read_csv("Saldo.csv", col_types = cols(Data = col_date(format = "%m/%Y")), locale = locale(decimal_mark = ",", grouping_mark = "."))
+```
+
+<!-- Definindo a Série temporal -->
+
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+
+Cred_ts <- ts(data = Saldo$`28183 - Saldo de crédito R$ (milhões)` , frequency = 12, start = c(2015,1))/1000
+
+IBOV_ts <- ts(data = Ibovespa$`Adj Close`, frequency = 12, start = c(2015,1))/1000000000
+
+IPCA_ts <- ts(data = IPCA$`433 (IPCA)`, frequency = 12, start = c(2015,1))
+
+Ativ_ts <- ts(data = AAPL$`Adj Close`, frequency = 12, start = c(2015,1))/1000000
+
+r_Ativ_ts <- diff(log(Ativ_ts))
+
+```
+Pacotes utilizados:
+---
+```{r message=FALSE, warning=FALSE}
+require(forecast)
+require(ggplot2)
+require(lmtest)
+require(readr)
+```
+Visualizando as Séries:
+--- IBOVESPA
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+forecast::ggtsdisplay(IBOV_ts, plot.type=c("partial", "histogram", "scatter", "spectrum"), theme=theme_minimal(), main = "Série temporal, IBOVESPA - R$ (em bilhões)")
+```
+  a. Realize os testes de identificação, assim como os de Critério de Informação e Diagnóstico de Resíduos.
+  b. Plote os gráficos de FAC e FACP.
+  c. Estime os coeficientes e apresente os modelos. (Utilize software apropriado)
+
+--- IPCA
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+ggtsdisplay(IPCA_ts, plot.type=c("partial", "histogram", "scatter", "spectrum"), theme=theme_minimal(),main = "Série temporal, IPCA")
+```
+  a. Realize os testes de identificação, assim como os de Critério de Informação e Diagnóstico de Resíduos.
+  b. Plote os gráficos de FAC e FACP.
+  c. Estime os coeficientes e apresente os modelos. (Utilize software apropriado)
+
+--- Credito
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+ggtsdisplay(Cred_ts, plot.type=c("partial", "histogram", "scatter", "spectrum"), theme=theme_minimal(),main = "Série temporal, Saldo da carteira de Crédito - R$ (em bilhões)")
+```
+  a. Realize os testes de identificação, assim como os de Critério de Informação e Diagnóstico de Resíduos.
+  b. Plote os gráficos de FAC e FACP.
+  c. Estime os coeficientes e apresente os modelos. (Utilize software apropriado)
+
+--- AÇÃO
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+ggtsdisplay(Ativ_ts, plot.type=c("partial", "histogram", "scatter", "spectrum"), theme=theme_minimal(), main = "Ação AAPL na B3, R$ (em milhões)")
+```
+  a. Realize os testes de identificação, assim como os de Critério de Informação e Diagnóstico de Resíduos.
+  b. Plote os gráficos de FAC e FACP.
+  c. Estime os coeficientes e apresente os modelos. (Utilize software apropriado)
+
+--- Retorno da AÇÃO
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+ggtsdisplay(r_Ativ_ts, plot.type=c("partial", "histogram", "scatter", "spectrum"), theme=theme_minimal(), main = "Log-Retorno da ação AAPL na B3, R$ (em milhões)")
+```
+
+  a. Realize os testes de identificação, assim como os de Critério de Informação e Diagnóstico de Resíduos.
+  b. Plote os gráficos de FAC e FACP.
+  c. Estime os coeficientes e apresente os modelos. (Utilize software apropriado)
+  d. O preço do ativo pode ser modelado por um processo estacionário? Se não,
+justifique e verifique se o retorno desse ativo é um processo estacionário.
+
+### Questão 3:
+
+Utilizando as séries disponibilizadas no arquivo "AP2.xlsx", faça para cada uma das séries o que se pede:
+
+<!-- Carregando os arquivos: -->
+
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=TRUE}
+library(readxl)
+TS1 <- read_excel("ap2 (2).xlsx", sheet = "Q3.1"
+    col_names = FALSE)
+TS2 <- read_excel("ap2 (2).xlsx", sheet = "Q3.2", 
+    col_names = FALSE)
+TS3 <- read_excel("ap2 (2).xlsx", sheet = "Q3.3", 
+    col_names = FALSE)
+TS4 <- read_excel("ap2 (2).xlsx", sheet = "Q3.4", 
+    col_names = FALSE)
+TS5 <- read_excel("ap2 (2).xlsx", sheet = "Q3.5", 
+    col_names = FALSE)
+
+```
+
+<!-- Definindo a Série temporal -->
+
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+
+Cred_ts <- ts(data = Saldo$`28183 - Saldo de crédito R$ (milhões)` , frequency = 12, start = c(2015,1))/1000
+
+```
+
+Visualizando as Séries:
+--- IBOVESPA
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+forecast::ggtsdisplay(IBOV_ts, plot.type=c("partial", "histogram", "scatter", "spectrum"), theme=theme_minimal(), main = "Série temporal, IBOVESPA - R$ (em bilhões)")
+```
+
+
+
+
+
+
+
+
+
+
+a. Realize os testes de identificação, assim como os de Critério de Informação e
+Diagnóstico de Resíduos.
+
+arima;
+
+b. Plote os gráficos de FAC e FACP.
+
+c. Estime os coeficientes e apresente os modelos. (Utilize software apropriado)
+---
